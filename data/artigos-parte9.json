@@ -1,0 +1,277 @@
+{
+  "artigos": {
+    "art-169": {
+      "numero": "169",
+      "conteudo": "As contratações públicas deverão submeter-se a práticas contínuas e permanentes de gestão de riscos e de controle preventivo, inclusive mediante adoção de recursos de tecnologia da informação, e, além de estar subordinadas ao controle social, sujeitar-se-ão às seguintes linhas de defesa:",
+      "incisos": [
+        {"numero": "I", "texto": "primeira linha de defesa, integrada por servidores e empregados públicos, agentes de licitação e autoridades que atuam na estrutura de governança do órgão ou entidade;"},
+        {"numero": "II", "texto": "segunda linha de defesa, integrada pelas unidades de assessoramento jurídico e de controle interno do próprio órgão ou entidade;"},
+        {"numero": "III", "texto": "terceira linha de defesa, integrada pelo órgão central de controle interno da Administração e pelo tribunal de contas."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "Na forma de regulamento, a implementação das práticas a que se refere o caput deste artigo será de responsabilidade da alta administração do órgão ou entidade e levará em consideração os custos e os benefícios decorrentes de sua implementação, optando-se pelas medidas que promovam relações íntegras e confiáveis, com segurança jurídica para todos os envolvidos, e que produzam o resultado mais vantajoso para a Administração, com eficiência, eficácia e efetividade nas contratações públicas."},
+        {"numero": "2", "texto": "Para a realização de suas atividades, os órgãos de controle deverão ter acesso irrestrito aos documentos e às informações necessárias à realização dos trabalhos, inclusive aos documentos classificados pelo órgão ou entidade nos termos da Lei nº 12.527, de 18 de novembro de 2011, e o órgão de controle com o qual foi compartilhada eventual informação sigilosa tornar-se-á corresponsável pela manutenção do seu sigilo."},
+        {"numero": "3", "texto": "Os integrantes das linhas de defesa a que se referem os incisos I, II e III do caput deste artigo observarão o seguinte:"}
+      ],
+      "paragrafos_incisos": [
+        {"paragrafo": "3", "incisos": [
+          {"numero": "I", "texto": "quando constatarem simples impropriedade formal, adotarão medidas para o seu saneamento e para a mitigação de riscos de sua nova ocorrência, preferencialmente com o aperfeiçoamento dos controles preventivos e com a capacitação dos agentes públicos responsáveis;"},
+          {"numero": "II", "texto": "quando constatarem irregularidade que configure dano à Administração, sem prejuízo das medidas previstas no inciso I deste § 3º, adotarão as providências necessárias para a apuração das infrações administrativas, observadas a segregação de funções e a necessidade de individualização das condutas, bem como remeterão ao Ministério Público competente cópias dos documentos cabíveis para a apuração dos ilícitos de sua competência."}
+        ]}
+      ]
+    },
+    "art-170": {
+      "numero": "170",
+      "conteudo": "Os órgãos de controle adotarão, na fiscalização dos atos previstos nesta Lei, critérios de oportunidade, materialidade, relevância e risco e considerarão as razões apresentadas pelos órgãos e entidades responsáveis e os resultados obtidos com a contratação, observado o disposto no § 3º do art. 169 desta Lei.",
+      "paragrafos": [
+        {"numero": "1", "texto": "As razões apresentadas pelos órgãos e entidades responsáveis deverão ser encaminhadas aos órgãos de controle até a conclusão da fase de instrução do processo e não poderão ser desentranhadas dos autos."},
+        {"numero": "2", "texto": "A omissão na prestação das informações não impedirá as deliberações dos órgãos de controle nem retardará a aplicação de qualquer de seus prazos de tramitação e de deliberação."},
+        {"numero": "3", "texto": "Os órgãos de controle desconsiderarão os documentos impertinentes, meramente protelatórios ou de nenhum interesse para o esclarecimento dos fatos."},
+        {"numero": "4", "texto": "Qualquer licitante, contratado ou pessoa física ou jurídica poderá representar aos órgãos de controle interno ou ao tribunal de contas competente contra irregularidades na aplicação desta Lei."}
+      ]
+    },
+    "art-171": {
+      "numero": "171",
+      "conteudo": "Na fiscalização de controle será observado o seguinte:",
+      "incisos": [
+        {"numero": "I", "texto": "viabilização de oportunidade de manifestação aos gestores sobre possíveis propostas de encaminhamento que terão impacto significativo nas rotinas de trabalho dos órgãos e entidades fiscalizados, a fim de que eles disponibilizem subsídios para avaliação prévia da relação entre custo e benefício dessas possíveis proposições;"},
+        {"numero": "II", "texto": "adoção de procedimentos objetivos e imparciais e elaboração de relatórios tecnicamente fundamentados, baseados exclusivamente nas evidências obtidas e organizados de acordo com as normas de auditoria do respectivo órgão de controle, de modo a evitar que interesses pessoais e interpretações tendenciosas interfiram na apresentação e no tratamento dos fatos levantados;"},
+        {"numero": "III", "texto": "definição de objetivos, nos regimes de empreitada por preço global, empreitada integral, contratação semi-integrada e contratação integrada, atendidos os requisitos técnicos, legais, orçamentários e financeiros, de acordo com as finalidades da contratação, devendo, ainda, ser perquirida a conformidade do preço global com os parâmetros de mercado para o objeto contratado, considerada inclusive a dimensão geográfica."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "Ao suspender cautelarmente o processo licitatório, o tribunal de contas deverá pronunciar-se definitivamente sobre o mérito da irregularidade que tenha dado causa à suspensão no prazo de 25 (vinte e cinco) dias úteis, contado da data do recebimento das informações a que se refere o § 2º deste artigo, prorrogável por igual período uma única vez, e definirá objetivamente:"}
+      ],
+      "paragrafos_incisos": [
+        {"paragrafo": "1", "incisos": [
+          {"numero": "I", "texto": "as causas da ordem de suspensão;"},
+          {"numero": "II", "texto": "o modo como será garantido o atendimento do interesse público obstado pela suspensão da licitação, no caso de objetos essenciais ou de contratação por emergência."}
+        ]},
+        {"paragrafo": "2", "incisos": [
+          {"numero": "I", "texto": "informar as medidas adotadas para cumprimento da decisão;"},
+          {"numero": "II", "texto": "prestar todas as informações cabíveis;"},
+          {"numero": "III", "texto": "proceder à apuração de responsabilidade, se for o caso."}
+        ]}
+      ],
+      "paragrafos_continuacao": [
+        {"numero": "2", "texto": "Ao ser intimado da ordem de suspensão do processo licitatório, o órgão ou entidade deverá, no prazo de 10 (dez) dias úteis, admitida a prorrogação:"},
+        {"numero": "3", "texto": "A decisão que examinar o mérito da medida cautelar a que se refere o § 1º deste artigo deverá definir as medidas necessárias e adequadas, em face das alternativas possíveis, para o saneamento do processo licitatório, ou determinar a sua anulação."},
+        {"numero": "4", "texto": "O descumprimento do disposto no § 2º deste artigo ensejará a apuração de responsabilidade e a obrigação de reparação do prejuízo causado ao erário."}
+      ]
+    },
+    "art-172": {
+      "numero": "172",
+      "conteudo": "(VETADO)."
+    },
+    "art-173": {
+      "numero": "173",
+      "conteudo": "Os tribunais de contas deverão, por meio de suas escolas de contas, promover eventos de capacitação para os servidores efetivos e empregados públicos designados para o desempenho das funções essenciais à execução desta Lei, incluídos cursos presenciais e a distância, redes de aprendizagem, seminários e congressos sobre contratações públicas."
+    },
+    "art-174": {
+      "numero": "174",
+      "conteudo": "É criado o Portal Nacional de Contratações Públicas (PNCP), sítio eletrônico oficial destinado à:",
+      "incisos": [
+        {"numero": "I", "texto": "divulgação centralizada e obrigatória dos atos exigidos por esta Lei;"},
+        {"numero": "II", "texto": "realização facultativa das contratações pelos órgãos e entidades dos Poderes Executivo, Legislativo e Judiciário de todos os entes federativos."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "O PNCP será gerido pelo Comitê Gestor da Rede Nacional de Contratações Públicas, a ser presidido por representante indicado pelo Presidente da República e composto de:"}
+      ],
+      "paragrafos_incisos": [
+        {"paragrafo": "1", "incisos": [
+          {"numero": "I", "texto": "3 (três) representantes da União indicados pelo Presidente da República;"},
+          {"numero": "II", "texto": "2 (dois) representantes dos Estados e do Distrito Federal indicados pelo Conselho Nacional de Secretários de Estado da Administração;"},
+          {"numero": "III", "texto": "2 (dois) representantes dos Municípios indicados pela Confederação Nacional de Municípios."}
+        ]},
+        {"paragrafo": "2", "incisos": [
+          {"numero": "I", "texto": "planos de contratação anuais;"},
+          {"numero": "II", "texto": "catálogos eletrônicos de padronização;"},
+          {"numero": "III", "texto": "editais de credenciamento e de pré-qualificação, avisos de contratação direta e editais de licitação e respectivos anexos;"},
+          {"numero": "IV", "texto": "atas de registro de preços;"},
+          {"numero": "V", "texto": "contratos e termos aditivos;"},
+          {"numero": "VI", "texto": "notas fiscais eletrônicas, quando for o caso."}
+        ]},
+        {"paragrafo": "3", "incisos": [
+          {"numero": "I", "texto": "sistema de registro cadastral unificado;"},
+          {"numero": "II", "texto": "painel para consulta de preços, banco de preços em saúde e acesso à base nacional de notas fiscais eletrônicas;"},
+          {"numero": "III", "texto": "sistema de planejamento e gerenciamento de contratações, incluído o cadastro de atesto de cumprimento de obrigações previsto no § 4º do art. 88 desta Lei;"},
+          {"numero": "IV", "texto": "sistema eletrônico para a realização de sessões públicas;"},
+          {"numero": "V", "texto": "acesso ao Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e ao Cadastro Nacional de Empresas Punidas (Cnep);"},
+          {"numero": "VI", "texto": "sistema de gestão compartilhada com a sociedade de informações referentes à execução do contrato, que possibilite:"}
+        ]},
+        {"paragrafo": "3-VI", "alineas": [
+          {"letra": "a", "texto": "envio, registro, armazenamento e divulgação de mensagens de texto ou imagens pelo interessado previamente identificado;"},
+          {"letra": "b", "texto": "acesso ao sistema informatizado de acompanhamento de obras a que se refere o inciso III do caput do art. 19 desta Lei;"},
+          {"letra": "c", "texto": "comunicação entre a população e representantes da Administração e do contratado designados para prestar as informações e esclarecimentos pertinentes, na forma de regulamento;"},
+          {"letra": "d", "texto": "divulgação, na forma de regulamento, de relatório final com informações sobre a consecução dos objetivos que tenham justificado a contratação e eventuais condutas a serem adotadas para o aprimoramento das atividades da Administração."}
+        ]}
+      ],
+      "paragrafos_continuacao": [
+        {"numero": "4", "texto": "O PNCP adotará o formato de dados abertos e observará as exigências previstas na Lei nº 12.527, de 18 de novembro de 2011."},
+        {"numero": "5", "texto": "(VETADO)."}
+      ]
+    },
+    "art-175": {
+      "numero": "175",
+      "conteudo": "Sem prejuízo do disposto no art. 174 desta Lei, os entes federativos poderão instituir sítio eletrônico oficial para divulgação complementar e realização das respectivas contratações.",
+      "paragrafos": [
+        {"numero": "1", "texto": "Desde que mantida a integração com o PNCP, as contratações poderão ser realizadas por meio de sistema eletrônico fornecido por pessoa jurídica de direito privado, na forma de regulamento."},
+        {"numero": "2", "texto": "(VETADO)."},
+        {"numero": "2-promulgacao", "texto": "Até 31 de dezembro de 2023, os Municípios deverão realizar divulgação complementar de suas contratações mediante publicação de extrato de edital de licitação em jornal diário de grande circulação local.     (Promulgação partes vetadas)"}
+      ]
+    },
+    "art-176": {
+      "numero": "176",
+      "conteudo": "Os Municípios com até 20.000 (vinte mil) habitantes terão o prazo de 6 (seis) anos, contado da data de publicação desta Lei, para cumprimento:",
+      "incisos": [
+        {"numero": "I", "texto": "dos requisitos estabelecidos no art. 7º e no caput do art. 8º desta Lei;"},
+        {"numero": "II", "texto": "da obrigatoriedade de realização da licitação sob a forma eletrônica a que se refere o § 2º do art. 17 desta Lei;"},
+        {"numero": "III", "texto": "das regras relativas à divulgação em sítio eletrônico oficial."}
+      ],
+      "paragrafos": [
+        {"numero": "único", "texto": "Enquanto não adotarem o PNCP, os Municípios a que se refere o caput deste artigo deverão:"}
+      ],
+      "paragrafos_incisos": [
+        {"paragrafo": "único", "incisos": [
+          {"numero": "I", "texto": "publicar, em diário oficial, as informações que esta Lei exige que sejam divulgadas em sítio eletrônico oficial, admitida a publicação de extrato;"},
+          {"numero": "II", "texto": "disponibilizar a versão física dos documentos em suas repartições, vedada a cobrança de qualquer valor, salvo o referente ao fornecimento de edital ou de cópia de documento, que não será superior ao custo de sua reprodução gráfica."}
+        ]}
+      ]
+    },
+    "art-177": {
+      "numero": "177",
+      "conteudo": "O caput do art. 1.048 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), passa a vigorar acrescido do seguinte inciso IV:",
+      "paragrafos": [
+        {"numero": "único", "texto": "Art.1.048. ....................................................................................................... .......................................................................................................................... IV - em que se discuta a aplicação do disposto nas normas gerais de licitação e contratação a que se refere o inciso XXVII do caput do art. 22 da Constituição Federal. ................................................................................................................” (NR)"}
+      ]
+    },
+    "art-178": {
+      "numero": "178",
+      "conteudo": "O Título XI da Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), passa a vigorar acrescido do seguinte Capítulo II-B:",
+      "paragrafos": [
+        {"numero": "único", "texto": "CAPÍTULO II-B DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS"}
+      ],
+      "incisos": [
+        {"numero": "Art. 337-E", "texto": "Contratação direta ilegal: Admitir, possibilitar ou dar causa à contratação direta fora das hipóteses previstas em lei. Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa."},
+        {"numero": "Art. 337-F", "texto": "Frustração do caráter competitivo de licitação: Frustrar ou fraudar, com o intuito de obter para si ou para outrem vantagem decorrente da adjudicação do objeto da licitação, o caráter competitivo do processo licitatório. Pena - reclusão, de 4 (quatro) anos a 8 (oito) anos, e multa."},
+        {"numero": "Art. 337-G", "texto": "Patrocínio de contratação indevida: Patrocinar, direta ou indiretamente, interesse privado perante a Administração Pública, dando causa à instauração de licitação ou à celebração de contrato cuja invalidação vier a ser decretada pelo Poder Judiciário. Pena - reclusão, de 6 (seis) meses a 3 (três) anos, e multa."},
+        {"numero": "Art. 337-H", "texto": "Modificação ou pagamento irregular em contrato administrativo: Admitir, possibilitar ou dar causa a qualquer modificação ou vantagem, inclusive prorrogação contratual, em favor do contratado, durante a execução dos contratos celebrados com a Administração Pública, sem autorização em lei, no edital da licitação ou nos respectivos instrumentos contratuais, ou, ainda, pagar fatura com preterição da ordem cronológica de sua exigibilidade. Pena - reclusão, de 4 (quatro) anos a 8 (oito) anos, e multa."},
+        {"numero": "Art. 337-I", "texto": "Perturbação de processo licitatório: Impedir, perturbar ou fraudar a realização de qualquer ato de processo licitatório. Pena - detenção, de 6 (seis) meses a 3 (três) anos, e multa."},
+        {"numero": "Art. 337-J", "texto": "Violação de sigilo em licitação: Devassar o sigilo de proposta apresentada em processo licitatório ou proporcionar a terceiro o ensejo de devassá-lo. Pena - detenção, de 2 (dois) anos a 3 (três) anos, e multa."},
+        {"numero": "Art. 337-K", "texto": "Afastamento de licitante: Afastar ou tentar afastar licitante por meio de violência, grave ameaça, fraude ou oferecimento de vantagem de qualquer tipo. Pena - reclusão, de 3 (três) anos a 5 (cinco) anos, e multa, além da pena correspondente à violência. Parágrafo único. Incorre na mesma pena quem se abstém ou desiste de licitar em razão de vantagem oferecida."},
+        {"numero": "Art. 337-L", "texto": "Fraude em licitação ou contrato: Fraudar, em prejuízo da Administração Pública, licitação ou contrato dela decorrente, mediante: I - entrega de mercadoria ou prestação de serviços com qualidade ou em quantidade diversas das previstas no edital ou nos instrumentos contratuais; II - fornecimento, como verdadeira ou perfeita, de mercadoria falsificada, deteriorada, inservível para consumo ou com prazo de validade vencido; III - entrega de uma mercadoria por outra; IV - alteração da substância, qualidade ou quantidade da mercadoria ou do serviço fornecido; V - qualquer meio fraudulento que torne injustamente mais onerosa para a Administração Pública a proposta ou a execução do contrato. Pena - reclusão, de 4 (quatro) anos a 8 (oito) anos, e multa."},
+        {"numero": "Art. 337-M", "texto": "Contratação inidônea: Admitir à licitação empresa ou profissional declarado inidôneo. Pena - reclusão, de 1 (um) ano a 3 (três) anos, e multa. § 1º Celebrar contrato com empresa ou profissional declarado inidôneo. Pena - reclusão, de 3 (três) anos a 6 (seis) anos, e multa. § 2º Incide na mesma pena do caput deste artigo aquele que, declarado inidôneo, venha a participar de licitação e, na mesma pena do § 1º deste artigo, aquele que, declarado inidôneo, venha a contratar com a Administração Pública."},
+        {"numero": "Art. 337-N", "texto": "Impedimento indevido: Obstar, impedir ou dificultar injustamente a inscrição de qualquer interessado nos registros cadastrais ou promover indevidamente a alteração, a suspensão ou o cancelamento de registro do inscrito. Pena - reclusão, de 6 (seis) meses a 2 (dois) anos, e multa."},
+        {"numero": "Art. 337-O", "texto": "Omissão grave de dado ou de informação por projetista: Omitir, modificar ou entregar à Administração Pública levantamento cadastral ou condição de contorno em relevante dissonância com a realidade, em frustração ao caráter competitivo da licitação ou em detrimento da seleção da proposta mais vantajosa para a Administração Pública, em contratação para a elaboração de projeto básico, projeto executivo ou anteprojeto, em diálogo competitivo ou em procedimento de manifestação de interesse. Pena - reclusão, de 6 (seis) meses a 3 (três) anos, e multa. § 1º Consideram-se condição de contorno as informações e os levantamentos suficientes e necessários para a definição da solução de projeto e dos respectivos preços pelo licitante, incluídos sondagens, topografia, estudos de demanda, condições ambientais e demais elementos ambientais impactantes, considerados requisitos mínimos ou obrigatórios em normas técnicas que orientam a elaboração de projetos. § 2º Se o crime é praticado com o fim de obter benefício, direto ou indireto, próprio ou de outrem, aplica-se em dobro a pena prevista no caput deste artigo."},
+        {"numero": "Art. 337-P", "texto": "A pena de multa cominada aos crimes previstos neste Capítulo seguirá a metodologia de cálculo prevista neste Código e não poderá ser inferior a 2% (dois por cento) do valor do contrato licitado ou celebrado com contratação direta."}
+      ]
+    },
+    "art-179": {
+      "numero": "179",
+      "conteudo": "Os incisos II e III do caput do art. 2º da Lei nº 8.987, de 13 de fevereiro de 1995, passam a vigorar com a seguinte redação:",
+      "paragrafos": [
+        {"numero": "único", "texto": "Art. 2º  ............................................................................................................. ........................................................................................................................... II - concessão de serviço público: a delegação de sua prestação, feita pelo poder concedente, mediante licitação, na modalidade concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas que demonstre capacidade para seu desempenho, por sua conta e risco e por prazo determinado; III - concessão de serviço público precedida da execução de obra pública: a construção, total ou parcial, conservação, reforma, ampliação ou melhoramento de quaisquer obras de interesse público, delegados pelo poder concedente, mediante licitação, na modalidade concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas que demonstre capacidade para a sua realização, por sua conta e risco, de forma que o investimento da concessionária seja remunerado e amortizado mediante a exploração do serviço ou da obra por prazo determinado; ..................................................................................................................” (NR)"}
+      ]
+    },
+    "art-180": {
+      "numero": "180",
+      "conteudo": "O caput do art. 10 da Lei nº 11.079, de 30 de dezembro de 2004, passa a vigorar com a seguinte redação:",
+      "paragrafos": [
+        {"numero": "único", "texto": "Art. 10. A contratação de parceria público-privada será precedida de licitação na modalidade concorrência ou diálogo competitivo, estando a abertura do processo licitatório condicionada a: .................................................................................................................” (NR)"}
+      ]
+    },
+    "art-181": {
+      "numero": "181",
+      "conteudo": "Os entes federativos instituirão centrais de compras, com o objetivo de realizar compras em grande escala, para atender a diversos órgãos e entidades sob sua competência e atingir as finalidades desta Lei.",
+      "paragrafos": [
+        {"numero": "único", "texto": "No caso dos Municípios com até 10.000 (dez mil) habitantes, serão preferencialmente constituídos consórcios públicos para a realização das atividades previstas no caput deste artigo, nos termos da Lei nº 11.107, de 6 de abril de 2005."}
+      ]
+    },
+    "art-182": {
+      "numero": "182",
+      "conteudo": "O Poder Executivo federal atualizará, a cada dia 1º de janeiro, pelo Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E) ou por índice que venha a substituí-lo, os valores fixados por esta Lei, os quais serão divulgados no PNCP."
+    },
+    "art-183": {
+      "numero": "183",
+      "conteudo": "Os prazos previstos nesta Lei serão contados com exclusão do dia do começo e inclusão do dia do vencimento e observarão as seguintes disposições:",
+      "incisos": [
+        {"numero": "I", "texto": "os prazos expressos em dias corridos serão computados de modo contínuo;"},
+        {"numero": "II", "texto": "os prazos expressos em meses ou anos serão computados de data a data;"},
+        {"numero": "III", "texto": "nos prazos expressos em dias úteis, serão computados somente os dias em que ocorrer expediente administrativo no órgão ou entidade competente."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "Salvo disposição em contrário, considera-se dia do começo do prazo: I - o primeiro dia útil seguinte ao da disponibilização da informação na internet; II - a data de juntada aos autos do aviso de recebimento, quando a notificação for pelos correios."},
+        {"numero": "2", "texto": "Considera-se prorrogado o prazo até o primeiro dia útil seguinte se o vencimento cair em dia em que não houver expediente, se o expediente for encerrado antes da hora normal ou se houver indisponibilidade da comunicação eletrônica."},
+        {"numero": "3", "texto": "Na hipótese do inciso II do caput deste artigo, se no mês do vencimento não houver o dia equivalente àquele do início do prazo, considera-se como termo o último dia do mês."}
+      ]
+    },
+    "art-184": {
+      "numero": "184",
+      "conteudo": "Aplicam-se as disposições desta Lei, no que couber e na ausência de norma específica, aos convênios, acordos, ajustes e outros instrumentos congêneres celebrados por órgãos e entidades da Administração Pública, na forma estabelecida em regulamento do Poder Executivo federal.",
+      "paragrafos": [
+        {"numero": "1", "texto": "(VETADO).   (Incluído pela Lei nº 14.770, de 2023)"},
+        {"numero": "2", "texto": "Quando, verificada qualquer das hipóteses da alínea d do inciso II do caput do art. 124 desta Lei, o valor global inicialmente pactuado demonstrar-se insuficiente para a execução do objeto, poderão ser:   (Incluído pela Lei nº 14.770, de 2023) I - utilizados saldos de recursos ou rendimentos de aplicação financeira;   (Incluído pela Lei nº 14.770, de 2023) II - aportados novos recursos pelo concedente;   (Incluído pela Lei nº 14.770, de 2023) III - reduzidas as metas e as etapas, desde que isso não comprometa a fruição ou a funcionalidade do objeto pactuado.   (Incluído pela Lei nº 14.770, de 2023)"},
+        {"numero": "3", "texto": "São permitidos ajustes nos instrumentos celebrados com recursos de transferências voluntárias, para promover alterações em seu objeto, desde que:   (Incluído pela Lei nº 14.770, de 2023) I - isso não importe transposição, remanejamento ou transferência de recursos de uma categoria de programação para outra ou de um órgão para outro;   (Incluído pela Lei nº 14.770, de 2023) II - seja apresentada justificativa objetiva pelo convenente; e   (Incluído pela Lei nº 14.770, de 2023) III - quando se tratar de obra, seja mantido o que foi pactuado quanto a suas características.   (Incluído pela Lei nº 14.770, de 2023)"},
+        {"numero": "4", "texto": "(VETADO).   (Incluído pela Lei nº 14.770, de 2023)"}
+      ]
+    },
+    "art-184-A": {
+      "numero": "184-A",
+      "conteudo": "À celebração, à execução, ao acompanhamento e à prestação de contas dos convênios, contratos de repasse e instrumentos congêneres em que for parte a União, com valor global de até R$ 1.500.000,00 (um milhão e quinhentos mil reais), aplicar-se-á o seguinte regime simplificado:   (Incluído pela Lei nº 14.770, de 2023)     (Vide Decreto nº 12.343, de 2024)    Vigência",
+      "incisos": [
+        {"numero": "I", "texto": "o plano de trabalho aprovado conterá parâmetros objetivos para caracterizar o cumprimento do objeto;   (Incluído pela Lei nº 14.770, de 2023)"},
+        {"numero": "II", "texto": "a minuta dos instrumentos deverá ser simplificada;   (Incluído pela Lei nº 14.770, de 2023)"},
+        {"numero": "III", "texto": "(VETADO);   (Incluído pela Lei nº 14.770, de 2023)"},
+        {"numero": "IV", "texto": "a verificação da execução do objeto ocorrerá mediante visita de constatação da compatibilidade com o plano de trabalho.   (Incluído pela Lei nº 14.770, de 2023)"}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "O acompanhamento pela concedente ou mandatária será realizado pela verificação dos boletins de medição e fotos georreferenciadas registradas pela empresa executora e pelo convenente do Transferegov e por vistorias in loco, realizadas considerando o marco de execução de 100% (cem por cento) do cronograma físico, podendo ocorrer outras vistorias, quando necessárias.   (Incluído pela Lei nº 14.770, de 2023)"},
+        {"numero": "2", "texto": "Não haverá análise nem aceite de termo de referência, anteprojeto, projeto, orçamento, resultado do processo licitatório ou outro documento necessário para o início da execução do objeto, e caberá à concedente ou mandatária verificar o cumprimento do objeto pactuado ao final da execução do instrumento.   (Incluído pela Lei nº 14.770, de 2023)"},
+        {"numero": "3", "texto": "(VETADO).   (Incluído pela Lei nº 14.770, de 2023)"},
+        {"numero": "4", "texto": "O regime simplificado de que trata este artigo aplica-se aos convênios, contratos de repasse e instrumentos congêneres celebrados após a publicação desta Lei.   (Incluído pela Lei nº 14.770, de 2023)"}
+      ]
+    },
+    "art-185": {
+      "numero": "185",
+      "conteudo": "Aplicam-se às licitações e aos contratos regidos pela Lei nº 13.303, de 30 de junho de 2016, as disposições do Capítulo II-B do Título XI da Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal)."
+    },
+    "art-186": {
+      "numero": "186",
+      "conteudo": "Aplicam-se as disposições desta Lei subsidiariamente à Lei nº 8.987, de 13 de fevereiro de 1995, à Lei nº 11.079, de 30 de dezembro de 2004, e à Lei nº 12.232, de 29 de abril de 2010."
+    },
+    "art-187": {
+      "numero": "187",
+      "conteudo": "Os Estados, o Distrito Federal e os Municípios poderão aplicar os regulamentos editados pela União para execução desta Lei."
+    },
+    "art-188": {
+      "numero": "188",
+      "conteudo": "(VETADO)."
+    },
+    "art-189": {
+      "numero": "189",
+      "conteudo": "Aplica-se esta Lei às hipóteses previstas na legislação que façam referência expressa à Lei nº 8.666, de 21 de junho de 1993, à Lei nº 10.520, de 17 de julho de 2002, e aos arts. 1º a 47-A da Lei nº 12.462, de 4 de agosto de 2011."
+    },
+    "art-190": {
+      "numero": "190",
+      "conteudo": "O contrato cujo instrumento tenha sido assinado antes da entrada em vigor desta Lei continuará a ser regido de acordo com as regras previstas na legislação revogada."
+    },
+    "art-191": {
+      "numero": "191",
+      "conteudo": "Até o decurso do prazo de que trata o inciso II do caput do art. 193, a Administração poderá optar por licitar ou contratar diretamente de acordo com esta Lei ou de acordo com as leis citadas no referido inciso, e a opção escolhida deverá ser indicada expressamente no edital ou no aviso ou instrumento de contratação direta, vedada a aplicação combinada desta Lei com as citadas no referido inciso.",
+      "paragrafos": [
+        {"numero": "único", "texto": "Na hipótese do caput deste artigo, se a Administração optar por licitar de acordo com as leis citadas no inciso II do caput do art. 193 desta Lei, o contrato respectivo será regido pelas regras nelas previstas durante toda a sua vigência."}
+      ]
+    },
+    "art-192": {
+      "numero": "192",
+      "conteudo": "O contrato relativo a imóvel do patrimônio da União ou de suas autarquias e fundações continuará regido pela legislação pertinente, aplicada esta Lei subsidiariamente."
+    },
+    "art-193": {
+      "numero": "193",
+      "conteudo": "Revogam-se: I - os arts. 89 a 108 da Lei nº 8.666, de 21 de junho de 1993, na data de publicação desta Lei; II - a Lei nº 8.666, de 21 de junho de 1993, a Lei nº 10.520, de 17 de julho de 2002, e os arts. 1º a 47-A da Lei nº 12.462, de 4 de agosto de 2011, após decorridos 2 (dois) anos da publicação oficial desta Lei. II - em 30 de dezembro de 2023:       (Redação dada pela Medida Provisória nº 1.167, de 2023)       Vigência encerrada a) a Lei nº 8.666, de 1993;      (Incluído pela Medida Provisória nº 1.167, de 2023)      Vigência encerrada b) a Lei nº 10.520, de 2002; e      (Incluído pela Medida Provisória nº 1.167, de 2023)      Vigência encerrada c) os art. 1º a art. 47-A da Lei nº 12.462, de 2011.       (Incluído pela Medida Provisória nº 1.167, de 2023)      Vigência encerrada II - em 30 de dezembro de 2023:       (Redação dada pela Lei Complementar nº 198, de 2023) a) a Lei nº 8.666, de 21 de junho de 1993;       (Redação dada pela Lei Complementar nº 198, de 2023) b) a Lei nº 10.520, de 17 de julho de 2002; e     (Redação dada pela Lei Complementar nº 198, de 2023) c) os arts. 1º a 47-A da Lei nº 12.462, de 4 de agosto de 2011.       (Redação dada pela Lei Complementar nº 198, de 2023)" 
+    },
+    "art-194": {
+      "numero": "194",
+      "conteudo": "Esta Lei entra em vigor na data de sua publicação."
+    }
+  }
+}

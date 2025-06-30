@@ -1,0 +1,649 @@
+{
+  "artigos": {
+    "art-103": {
+      "numero": "103",
+      "conteudo": "O contrato poderá identificar os riscos contratuais previstos e presumíveis e prever matriz de alocação de riscos, alocando-os entre contratante e contratado, mediante indicação daqueles a serem assumidos pelo setor público ou pelo setor privado ou daqueles a serem compartilhados.",
+      "paragrafos": [
+        {"numero": "1", "texto": "A alocação de riscos de que trata o caput deste artigo considerará, em compatibilidade com as obrigações e os encargos atribuídos às partes no contrato, a natureza do risco, o beneficiário das prestações a que se vincula e a capacidade de cada setor para melhor gerenciá-lo."},
+        {"numero": "2", "texto": "Os riscos que tenham cobertura oferecida por seguradoras serão preferencialmente transferidos ao contratado."},
+        {"numero": "3", "texto": "A alocação dos riscos contratuais será quantificada para fins de projeção dos reflexos de seus custos no valor estimado da contratação."},
+        {"numero": "4", "texto": "A matriz de alocação de riscos definirá o equilíbrio econômico-financeiro inicial do contrato em relação a eventos supervenientes e deverá ser observada na solução de eventuais pleitos das partes."},
+        {"numero": "5", "texto": "Sempre que atendidas as condições do contrato e da matriz de alocação de riscos, será considerado mantido o equilíbrio econômico-financeiro, renunciando as partes aos pedidos de restabelecimento do equilíbrio relacionados aos riscos assumidos, exceto no que se refere:",
+          "incisos": [
+            {"numero": "I", "texto": "às alterações unilaterais determinadas pela Administração, nas hipóteses do inciso I do caput do art. 124 desta Lei;"},
+            {"numero": "II", "texto": "ao aumento ou à redução, por legislação superveniente, dos tributos diretamente pagos pelo contratado em decorrência do contrato."}
+          ]
+        },
+        {"numero": "6", "texto": "Na alocação de que trata o caput deste artigo, poderão ser adotados métodos e padrões usualmente utilizados por entidades públicas e privadas, e os ministérios e secretarias supervisores dos órgãos e das entidades da Administração Pública poderão definir os parâmetros e o detalhamento dos procedimentos necessários a sua identificação, alocação e quantificação financeira."}
+      ]
+    },
+    "art-104": {
+      "numero": "104",
+      "conteudo": "O regime jurídico dos contratos instituído por esta Lei confere à Administração, em relação a eles, as prerrogativas de:",
+      "incisos": [
+        {"numero": "I", "texto": "modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado;"},
+        {"numero": "II", "texto": "extinguí-los, unilateralmente, nos casos especificados nesta Lei;"},
+        {"numero": "III", "texto": "fiscalizar sua execução;"},
+        {"numero": "IV", "texto": "aplicar sanções motivadas pela inexecução total ou parcial do ajuste;"},
+        {"numero": "V", "texto": "ocupar provisoriamente bens móveis e imóveis e utilizar pessoal e serviços vinculados ao objeto do contrato nas hipóteses de:",
+          "alineas": [
+            {"alinea": "a", "conteudo": "risco à prestação de serviços essenciais;"},
+            {"alinea": "b", "conteudo": "necessidade de acautelar apuração administrativa de faltas contratuais pelo contratado, inclusive após extinção do contrato."}
+          ]
+        }
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "As cláusulas econômico-financeiras e monetárias dos contratos não poderão ser alteradas sem prévia concordância do contratado."},
+        {"numero": "2", "texto": "Na hipótese prevista no inciso I do caput deste artigo, as cláusulas econômico-financeiras do contrato deverão ser revistas para que se mantenha o equilíbrio contratual."}
+      ]
+    },
+    "art-105": {
+      "numero": "105",
+      "conteudo": "A duração dos contratos regidos por esta Lei será a prevista em edital, e deverão ser observadas, no momento da contratação e a cada exercício financeiro, a disponibilidade de créditos orçamentários, bem como a previsão no plano plurianual, quando ultrapassar 1 (um) exercício financeiro.",
+      "paragrafos": [
+        {"numero": "único", "texto": "Não serão objeto de cancelamento automático os restos a pagar vinculados a contratos de duração plurianual, senão depois de encerrada a vigência destes, nem os vinculados a contratos rescindidos, nos casos dos §§ 8º e 9º do art. 90 desta Lei."}
+      ]
+    },
+    "art-106": {
+      "numero": "106",
+      "conteudo": "A Administração poderá celebrar contratos com prazo de até 5 (cinco) anos nas hipóteses de serviços e fornecimentos contínuos, observadas as seguintes diretrizes:",
+      "incisos": [
+        {"numero": "I", "texto": "a autoridade competente do órgão ou entidade contratante deverá atestar a maior vantagem econômica vislumbrada em razão da contratação plurianual;"},
+        {"numero": "II", "texto": "a Administração deverá atestar, no início da contratação e de cada exercício, a existência de créditos orçamentários vinculados à contratação e a vantagem em sua manutenção;"},
+        {"numero": "III", "texto": "a Administração terá a opção de extinguir o contrato, sem ônus, quando não dispuser de créditos orçamentários para sua continuidade ou quando entender que o contrato não mais lhe oferece vantagem."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "A extinção mencionada no inciso III do caput deste artigo ocorrerá apenas na próxima data de aniversário do contrato e não poderá ocorrer em prazo inferior a 2 (dois) meses, contado da referida data."},
+        {"numero": "2", "texto": "Aplica-se o disposto neste artigo ao aluguel de equipamentos e à utilização de programas de informática."}
+      ]
+    },
+    "art-107": {
+      "numero": "107",
+      "conteudo": "Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes."
+    },
+    "art-108": {
+      "numero": "108",
+      "conteudo": "A Administração poderá celebrar contratos com prazo de até 10 (dez) anos nas hipóteses previstas nas alíneas “f” e “g” do inciso IV e nos incisos V, VI, XII e XVI do caput do art. 75 desta Lei."
+    },
+    "art-109": {
+      "numero": "109",
+      "conteudo": "A Administração poderá estabelecer a vigência por prazo indeterminado nos contratos em que seja usuária de serviço público oferecido em regime de monopólio, desde que comprovada, a cada exercício financeiro, a existência de créditos orçamentários vinculados à contratação."
+    },
+    "art-110": {
+      "numero": "110",
+      "conteudo": "Na contratação que gere receita e no contrato de eficiência que gere economia para a Administração, os prazos serão de:",
+      "incisos": [
+        {"numero": "I", "texto": "até 10 (dez) anos, nos contratos sem investimento;"},
+        {"numero": "II", "texto": "até 35 (trinta e cinco) anos, nos contratos com investimento, assim considerados aqueles que impliquem a elaboração de benfeitorias permanentes, realizadas exclusivamente a expensas do contratado, que serão revertidas ao patrimônio da Administração Pública ao término do contrato."}
+      ]
+    },
+    "art-111": {
+      "numero": "111",
+      "conteudo": "Na contratação que previr a conclusão de escopo predefinido, o prazo de vigência será automaticamente prorrogado quando seu objeto não for concluído no período firmado no contrato.",
+      "paragrafos": [
+        {"numero": "único", "texto": "Quando a não conclusão decorrer de culpa do contratado:",
+          "incisos": [
+            {"numero": "I", "texto": "o contratado será constituído em mora, aplicáveis a ele as respectivas sanções administrativas;"},
+            {"numero": "II", "texto": "a Administração poderá optar pela extinção do contrato e, nesse caso, adotará as medidas admitidas em lei para a continuidade da execução contratual."}
+          ]
+        }
+      ]
+    },
+    "art-112": {
+      "numero": "112",
+      "conteudo": "Os prazos contratuais previstos nesta Lei não excluem nem revogam os prazos contratuais previstos em lei especial."
+    },
+    "art-113": {
+      "numero": "113",
+      "conteudo": "O contrato firmado sob o regime de fornecimento e prestação de serviço associado terá sua vigência máxima definida pela soma do prazo relativo ao fornecimento inicial ou à entrega da obra com o prazo relativo ao serviço de operação e manutenção, este limitado a 5 (cinco) anos contados da data de recebimento do objeto inicial, autorizada a prorrogação na forma do art. 107 desta Lei."
+    },
+    "art-114": {
+      "numero": "114",
+      "conteudo": "O contrato que previr a operação continuada de sistemas estruturantes de tecnologia da informação poderá ter vigência máxima de 15 (quinze) anos."
+    },
+    "art-115": {
+      "numero": "115",
+      "conteudo": "O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas desta Lei, e cada parte responderá pelas consequências de sua inexecução total ou parcial.",
+      "paragrafos": [
+        {"numero": "1", "texto": "É proibido à Administração retardar imotivadamente a execução de obra ou serviço, ou de suas parcelas, inclusive na hipótese de posse do respectivo chefe do Poder Executivo ou de novo titular no órgão ou entidade contratante."},
+        {"numero": "2", "texto": "(VETADO)."},
+        {"numero": "3", "texto": "(VETADO)."},
+        {"numero": "4", "texto": "(VETADO)."},
+        {"numero": "4", "texto": "Nas contratações de obras e serviços de engenharia, sempre que a responsabilidade pelo licenciamento ambiental for da Administração, a manifestação prévia ou licença prévia, quando cabíveis, deverão ser obtidas antes da divulgação do edital."},
+        {"numero": "5", "texto": "Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução será prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante simples apostila."},
+        {"numero": "6", "texto": "Nas contratações de obras, verificada a ocorrência do disposto no § 5º deste artigo por mais de 1 (um) mês, a Administração deverá divulgar, em sítio eletrônico oficial e em placa a ser afixada em local da obra de fácil visualização pelos cidadãos, aviso público de obra paralisada, com o motivo e o responsável pela inexecução temporária do objeto do contrato e a data prevista para o reinício da sua execução."},
+        {"numero": "7", "texto": "Os textos com as informações de que trata o § 6º deste artigo deverão ser elaborados pela Administração."}
+      ]
+    },
+    "art-116": {
+      "numero": "116",
+      "conteudo": "Ao longo de toda a execução do contrato, o contratado deverá cumprir a reserva de cargos prevista em lei para pessoa com deficiência, para reabilitado da Previdência Social ou para aprendiz, bem como as reservas de cargos previstas em outras normas específicas.",
+      "paragrafos": [
+        {"numero": "único", "texto": "Sempre que solicitado pela Administração, o contratado deverá comprovar o cumprimento da reserva de cargos a que se refere o caput deste artigo, com a indicação dos empregados que preencherem as referidas vagas."}
+      ]
+    },
+    "art-117": {
+      "numero": "117",
+      "conteudo": "A execução do contrato deverá ser acompanhada e fiscalizada por 1 (um) ou mais fiscais do contrato, representantes da Administração especialmente designados conforme requisitos estabelecidos no art. 7º desta Lei, ou pelos respectivos substitutos, permitida a contratação de terceiros para assisti-los e subsidiá-los com informações pertinentes a essa atribuição.",
+      "paragrafos": [
+        {"numero": "1", "texto": "O fiscal do contrato anotará em registro próprio todas as ocorrências relacionadas à execução do contrato, determinando o que for necessário para a regularização das faltas ou dos defeitos observados."},
+        {"numero": "2", "texto": "O fiscal do contrato informará a seus superiores, em tempo hábil para a adoção das medidas convenientes, a situação que demandar decisão ou providência que ultrapasse sua competência."},
+        {"numero": "3", "texto": "O fiscal do contrato será auxiliado pelos órgãos de assessoramento jurídico e de controle interno da Administração, que deverão dirimir dúvidas e subsidiá-lo com informações relevantes para prevenir riscos na execução contratual."},
+        {"numero": "4", "texto": "Na hipótese da contratação de terceiros prevista no caput deste artigo, deverão ser observadas as seguintes regras:",
+          "incisos": [
+            {"numero": "I", "texto": "a empresa ou o profissional contratado assumirá responsabilidade civil objetiva pela veracidade e pela precisão das informações prestadas, firmará termo de compromisso de confidencialidade e não poderá exercer atribuição própria e exclusiva de fiscal de contrato;"},
+            {"numero": "II", "texto": "a contratação de terceiros não eximirá de responsabilidade o fiscal do contrato, nos limites das informações recebidas do terceiro contratado."}
+          ]
+        }
+      ]
+    },
+    "art-118": {
+      "numero": "118",
+      "conteudo": "O contratado deverá manter preposto aceito pela Administração no local da obra ou do serviço para representá-lo na execução do contrato."
+    },
+    "art-119": {
+      "numero": "119",
+      "conteudo": "O contratado será obrigado a reparar, corrigir, remover, reconstruir ou substituir, a suas expensas, no total ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou incorreções resultantes de sua execução ou de materiais nela empregados."
+    },
+    "art-120": {
+      "numero": "120",
+      "conteudo": "O contratado será responsável pelos danos causados diretamente à Administração ou a terceiros em razão da execução do contrato, e não excluirá nem reduzirá essa responsabilidade a fiscalização ou o acompanhamento pelo contratante."
+    },
+    "art-121": {
+      "numero": "121",
+      "conteudo": "Somente o contratado será responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.",
+      "paragrafos": [
+        {"numero": "1", "texto": "A inadimplência do contratado em relação aos encargos trabalhistas, fiscais e comerciais não transferirá à Administração a responsabilidade pelo seu pagamento e não poderá onerar o objeto do contrato nem restringir a regularização e o uso das obras e das edificações, inclusive perante o registro de imóveis, ressalvada a hipótese prevista no § 2º deste artigo."},
+        {"numero": "2", "texto": "Exclusivamente nas contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra, a Administração responderá solidariamente pelos encargos previdenciários e subsidiariamente pelos encargos trabalhistas se comprovada falha na fiscalização do cumprimento das obrigações do contratado."},
+        {"numero": "3", "texto": "Nas contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra, para assegurar o cumprimento de obrigações trabalhistas pelo contratado, a Administração, mediante disposição em edital ou em contrato, poderá, entre outras medidas:",
+          "incisos": [
+            {"numero": "I", "texto": "exigir caução, fiança bancária ou contratação de seguro-garantia com cobertura para verbas rescisórias inadimplidas;"},
+            {"numero": "II", "texto": "condicionar o pagamento à comprovação de quitação das obrigações trabalhistas vencidas relativas ao contrato;"},
+            {"numero": "III", "texto": "efetuar o depósito de valores em conta vinculada;"},
+            {"numero": "IV", "texto": "em caso de inadimplemento, efetuar diretamente o pagamento das verbas trabalhistas, que serão deduzidas do pagamento devido ao contratado;"},
+            {"numero": "V", "texto": "estabelecer que os valores destinados a férias, a décimo terceiro salário, a ausências legais e a verbas rescisórias dos empregados do contratado que participarem da execução dos serviços contratados serão pagos pelo contratante ao contratado somente na ocorrência do fato gerador."}
+          ]
+        },
+        {"numero": "4", "texto": "Os valores depositados na conta vinculada a que se refere o inciso III do § 3º deste artigo são absolutamente impenhoráveis."},
+        {"numero": "5", "texto": "O recolhimento das contribuições previdenciárias observará o disposto no art. 31 da Lei nº 8.212, de 24 de julho de 1991."}
+      ]
+    },
+    "art-122": {
+      "numero": "122",
+      "conteudo": "Na execução do contrato e sem prejuízo das responsabilidades contratuais e legais, o contratado poderá subcontratar partes da obra, do serviço ou do fornecimento até o limite autorizado, em cada caso, pela Administração.",
+      "paragrafos": [
+        {"numero": "1", "texto": "O contratado apresentará à Administração documentação que comprove a capacidade técnica do subcontratado, que será avaliada e juntada aos autos do processo correspondente."},
+        {"numero": "2", "texto": "Regulamento ou edital de licitação poderão vedar, restringir ou estabelecer condições para a subcontratação."},
+        {"numero": "3", "texto": "Será vedada a subcontratação de pessoa física ou jurídica, se aquela ou os dirigentes desta mantiverem vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou se deles forem cônjuge, companheiro ou parente em linha reta, colateral, ou por afinidade, até o terceiro grau, devendo essa proibição constar expressamente do edital de licitação."}
+      ]
+    },
+    "art-123": {
+      "numero": "123",
+      "conteudo": "A Administração terá o dever de explicitamente emitir decisão sobre todas as solicitações e reclamações relacionadas à execução dos contratos regidos por esta Lei, ressalvados os requerimentos manifestamente impertinentes, meramente protelatórios ou de nenhum interesse para a boa execução do contrato.",
+      "paragrafos": [
+        {"numero": "único", "texto": "Salvo disposição legal ou cláusula contratual que estabeleça prazo específico, concluída a instrução do requerimento, a Administração terá o prazo de 1 (um) mês para decidir, admitida a prorrogação motivada por igual período."}
+      ]
+    },
+    "art-124": {
+      "numero": "124",
+      "conteudo": "Os contratos regidos por esta Lei poderão ser alterados, com as devidas justificativas, nos seguintes casos:",
+      "incisos": [
+        {"numero": "I", "texto": "unilateralmente pela Administração:", "alineas": [
+          "quando houver modificação do projeto ou das especificações, para melhor adequação técnica a seus objetivos;",
+          "quando for necessária a modificação do valor contratual em decorrência de acréscimo ou diminuição quantitativa de seu objeto, nos limites permitidos por esta Lei;"
+        ]},
+        {"numero": "II", "texto": "por acordo entre as partes:", "alineas": [
+          "quando conveniente a substituição da garantia de execução;",
+          "quando necessária a modificação do regime de execução da obra ou do serviço, bem como do modo de fornecimento, em face de verificação técnica da inaplicabilidade dos termos contratuais originários;",
+          "quando necessária a modificação da forma de pagamento por imposição de circunstâncias supervenientes, mantido o valor inicial atualizado e vedada a antecipação do pagamento em relação ao cronograma financeiro fixado sem a correspondente contraprestação de fornecimento de bens ou execução de obra ou serviço;",
+          "para restabelecer o equilíbrio econômico-financeiro inicial do contrato em caso de força maior, caso fortuito ou fato do príncipe ou em decorrência de fatos imprevisíveis ou previsíveis de consequências incalculáveis, que inviabilizem a execução do contrato tal como pactuado, respeitada, em qualquer caso, a repartição objetiva de risco estabelecida no contrato."
+        ]}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "Se forem decorrentes de falhas de projeto, as alterações de contratos de obras e serviços de engenharia ensejarão apuração de responsabilidade do responsável técnico e adoção das providências necessárias para o ressarcimento dos danos causados à Administração."},
+        {"numero": "2", "texto": "Será aplicado o disposto na alínea “d” do inciso II do caput deste artigo às contratações de obras e serviços de engenharia, quando a execução for obstada pelo atraso na conclusão de procedimentos de desapropriação, desocupação, servidão administrativa ou licenciamento ambiental, por circunstâncias alheias ao contratado."}
+      ]
+    },
+    "art-125": {
+      "numero": "125",
+      "conteudo": "Nas alterações unilaterais a que se refere o inciso I do caput do art. 124 desta Lei, o contratado será obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até 25% (vinte e cinco por cento) do valor inicial atualizado do contrato que se fizerem nas obras, nos serviços ou nas compras, e, no caso de reforma de edifício ou de equipamento, o limite para os acréscimos será de 50% (cinquenta por cento)."
+    },
+    "art-126": {
+      "numero": "126",
+      "conteudo": "As alterações unilaterais a que se refere o inciso I do caput do art. 124 desta Lei não poderão transfigurar o objeto da contratação."
+    },
+    "art-127": {
+      "numero": "127",
+      "conteudo": "Se o contrato não contemplar preços unitários para obras ou serviços cujo aditamento se fizer necessário, esses serão fixados por meio da aplicação da relação geral entre os valores da proposta e o do orçamento-base da Administração sobre os preços referenciais ou de mercado vigentes na data do aditamento, respeitados os limites estabelecidos no art. 125 desta Lei."
+    },
+    "art-128": {
+      "numero": "128",
+      "conteudo": "Nas contratações de obras e serviços de engenharia, a diferença percentual entre o valor global do contrato e o preço global de referência não poderá ser reduzida em favor do contratado em decorrência de aditamentos que modifiquem a planilha orçamentária."
+    },
+    "art-129": {
+      "numero": "129",
+      "conteudo": "Nas alterações contratuais para supressão de obras, bens ou serviços, se o contratado já houver adquirido os materiais e os colocado no local dos trabalhos, estes deverão ser pagos pela Administração pelos custos de aquisição regularmente comprovados e monetariamente reajustados, podendo caber indenização por outros danos eventualmente decorrentes da supressão, desde que regularmente comprovados."
+    },
+    "art-130": {
+      "numero": "130",
+      "conteudo": "Caso haja alteração unilateral do contrato que aumente ou diminua os encargos do contratado, a Administração deverá restabelecer, no mesmo termo aditivo, o equilíbrio econômico-financeiro inicial."
+    },
+    "art-131": {
+      "numero": "131",
+      "conteudo": "A extinção do contrato não configurará óbice para o reconhecimento do desequilíbrio econômico-financeiro, hipótese em que será concedida indenização por meio de termo indenizatório.",
+      "paragrafos": [
+        {"numero": "único", "texto": "O pedido de restabelecimento do equilíbrio econômico-financeiro deverá ser formulado durante a vigência do contrato e antes de eventual prorrogação nos termos do art. 107 desta Lei."}
+      ]
+    },
+    "art-132": {
+      "numero": "132",
+      "conteudo": "A formalização do termo aditivo é condição para a execução, pelo contratado, das prestações determinadas pela Administração no curso da execução do contrato, salvo nos casos de justificada necessidade de antecipação de seus efeitos, hipótese em que a formalização deverá ocorrer no prazo máximo de 1 (um) mês."
+    },
+    "art-133": {
+      "numero": "133",
+      "conteudo": "Nas hipóteses em que for adotada a contratação integrada ou semi-integrada, é vedada a alteração dos valores contratuais, exceto nos seguintes casos:",
+      "incisos": [
+        {"numero": "I", "texto": "para restabelecimento do equilíbrio econômico-financeiro decorrente de caso fortuito ou força maior;"},
+        {"numero": "II", "texto": "por necessidade de alteração do projeto ou das especificações para melhor adequação técnica aos objetivos da contratação, a pedido da Administração, desde que não decorrente de erros ou omissões por parte do contratado, observados os limites estabelecidos no art. 125 desta Lei;"},
+        {"numero": "III", "texto": "por necessidade de alteração do projeto nas contratações semi-integradas, nos termos do § 5º do art. 46 desta Lei;"},
+        {"numero": "IV", "texto": "por ocorrência de evento superveniente alocado na matriz de riscos como de responsabilidade da Administração."}
+      ]
+    },
+    "art-134": {
+      "numero": "134",
+      "conteudo": "Os preços contratados serão alterados, para mais ou para menos, conforme o caso, se houver, após a data da apresentação da proposta, criação, alteração ou extinção de quaisquer tributos ou encargos legais ou a superveniência de disposições legais, com comprovada repercussão sobre os preços contratados."
+    },
+    "art-135": {
+      "numero": "135",
+      "conteudo": "Os preços dos contratos para serviços contínuos com regime de dedicação exclusiva de mão de obra ou com predominância de mão de obra serão repactuados para manutenção do equilíbrio econômico-financeiro, mediante demonstração analítica da variação dos custos contratuais, com data vinculada:",
+      "incisos": [
+        {"numero": "I", "texto": "à da apresentação da proposta, para custos decorrentes do mercado;"},
+        {"numero": "II", "texto": "ao acordo, à convenção coletiva ou ao dissídio coletivo ao qual a proposta esteja vinculada, para os custos de mão de obra."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "A Administração não se vinculará às disposições contidas em acordos, convenções ou dissídios coletivos de trabalho que tratem de matéria não trabalhista, de pagamento de participação dos trabalhadores nos lucros ou resultados do contratado, ou que estabeleçam direitos não previstos em lei, como valores ou índices obrigatórios de encargos sociais ou previdenciários, bem como de preços para os insumos relacionados ao exercício da atividade."},
+        {"numero": "2", "texto": "É vedado a órgão ou entidade contratante vincular-se às disposições previstas nos acordos, convenções ou dissídios coletivos de trabalho que tratem de obrigações e direitos que somente se aplicam aos contratos com a Administração Pública."},
+        {"numero": "3", "texto": "A repactuação deverá observar o interregno mínimo de 1 (um) ano, contado da data da apresentação da proposta ou da data da última repactuação."},
+        {"numero": "4", "texto": "A repactuação poderá ser dividida em tantas parcelas quantas forem necessárias, observado o princípio da anualidade do reajuste de preços da contratação, podendo ser realizada em momentos distintos para discutir a variação de custos que tenham sua anualidade resultante em datas diferenciadas, como os decorrentes de mão de obra e os decorrentes dos insumos necessários à execução dos serviços."},
+        {"numero": "5", "texto": "Quando a contratação envolver mais de uma categoria profissional, a repactuação a que se refere o inciso II do caput deste artigo poderá ser dividida em tantos quantos forem os acordos, convenções ou dissídios coletivos de trabalho das categorias envolvidas na contratação."},
+        {"numero": "6", "texto": "A repactuação será precedida de solicitação do contratado, acompanhada de demonstração analítica da variação dos custos, por meio de apresentação da planilha de custos e formação de preços, ou do novo acordo, convenção ou sentença normativa que fundamenta a repactuação."}
+      ]
+    },
+    "art-136": {
+      "numero": "136",
+      "conteudo": "Registros que não caracterizam alteração do contrato podem ser realizados por simples apostila, dispensada a celebração de termo aditivo, como nas seguintes situações:",
+      "incisos": [
+        {"numero": "I", "texto": "variação do valor contratual para fazer face ao reajuste ou à repactuação de preços previstos no próprio contrato;"},
+        {"numero": "II", "texto": "atualizações, compensações ou penalizações financeiras decorrentes das condições de pagamento previstas no contrato;"},
+        {"numero": "III", "texto": "alterações na razão ou na denominação social do contratado;"},
+        {"numero": "IV", "texto": "empenho de dotações orçamentárias."}
+      ]
+    },
+    "art-137": {
+      "numero": "137",
+      "conteudo": "Constituirão motivos para extinção do contrato, a qual deverá ser formalmente motivada nos autos do processo, assegurados o contraditório e a ampla defesa, as seguintes situações:",
+      "incisos": [
+        {"numero": "I", "texto": "não cumprimento ou cumprimento irregular de normas editalícias ou de cláusulas contratuais, de especificações, de projetos ou de prazos;"},
+        {"numero": "II", "texto": "desatendimento das determinações regulares emitidas pela autoridade designada para acompanhar e fiscalizar sua execução ou por autoridade superior;"},
+        {"numero": "III", "texto": "alteração social ou modificação da finalidade ou da estrutura da empresa que restrinja sua capacidade de concluir o contrato;"},
+        {"numero": "IV", "texto": "decretação de falência ou de insolvência civil, dissolução da sociedade ou falecimento do contratado;"},
+        {"numero": "V", "texto": "caso fortuito ou força maior, regularmente comprovados, impeditivos da execução do contrato;"},
+        {"numero": "VI", "texto": "atraso na obtenção da licença ambiental, ou impossibilidade de obtê-la, ou alteração substancial do anteprojeto que dela resultar, ainda que obtida no prazo previsto;"},
+        {"numero": "VII", "texto": "atraso na liberação das áreas sujeitas a desapropriação, a desocupação ou a servidão administrativa, ou impossibilidade de liberação dessas áreas;"},
+        {"numero": "VIII", "texto": "razões de interesse público, justificadas pela autoridade máxima do órgão ou da entidade contratante;"},
+        {"numero": "IX", "texto": "não cumprimento das obrigações relativas à reserva de cargos prevista em lei, bem como em outras normas específicas, para pessoa com deficiência, para reabilitado da Previdência Social ou para aprendiz."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "Regulamento poderá especificar procedimentos e critérios para verificação da ocorrência dos motivos previstos no caput deste artigo."},
+        {"numero": "2", "texto": "O contratado terá direito à extinção do contrato nas seguintes hipóteses:",
+          "incisos": [
+            {"numero": "I", "texto": "supressão, por parte da Administração, de obras, serviços ou compras que acarrete modificação do valor inicial do contrato além do limite permitido no art. 125 desta Lei;"},
+            {"numero": "II", "texto": "suspensão de execução do contrato, por ordem escrita da Administração, por prazo superior a 3 (três) meses;"},
+            {"numero": "III", "texto": "repetidas suspensões que totalizem 90 (noventa) dias úteis, independentemente do pagamento obrigatório de indenização pelas sucessivas e contratualmente imprevistas desmobilizações e mobilizações e outras previstas;"},
+            {"numero": "IV", "texto": "atraso superior a 2 (dois) meses, contado da emissão da nota fiscal, dos pagamentos ou de parcelas de pagamentos devidos pela Administração por despesas de obras, serviços ou fornecimentos;"},
+            {"numero": "V", "texto": "não liberação pela Administração, nos prazos contratuais, de área, local ou objeto, para execução de obra, serviço ou fornecimento, e de fontes de materiais naturais especificadas no projeto, inclusive devido a atraso ou descumprimento das obrigações atribuídas pelo contrato à Administração relacionadas a desapropriação, a desocupação de áreas públicas ou a licenciamento ambiental."}
+          ]
+        },
+        {"numero": "3", "texto": "As hipóteses de extinção a que se referem os incisos II, III e IV do § 2º deste artigo observarão as seguintes disposições:",
+          "incisos": [
+            {"numero": "I", "texto": "não serão admitidas em caso de calamidade pública, de grave perturbação da ordem interna ou de guerra, bem como quando decorrerem de ato ou fato que o contratado tenha praticado, do qual tenha participado ou para o qual tenha contribuído;"},
+            {"numero": "II", "texto": "assegurarão ao contratado o direito de optar pela suspensão do cumprimento das obrigações assumidas até a normalização da situação, admitido o restabelecimento do equilíbrio econômico-financeiro do contrato, na forma da alínea 'd' do inciso II do caput do art. 124 desta Lei."}
+          ]
+        },
+        {"numero": "4", "texto": "Os emitentes das garantias previstas no art. 96 desta Lei deverão ser notificados pelo contratante quanto ao início de processo administrativo para apuração de descumprimento de cláusulas contratuais."}
+      ]
+    },
+    "art-138": {
+      "numero": "138",
+      "conteudo": "A extinção do contrato poderá ser:",
+      "incisos": [
+        {"numero": "I", "texto": "determinada por ato unilateral e escrito da Administração, exceto no caso de descumprimento decorrente de sua própria conduta;"},
+        {"numero": "II", "texto": "consensual, por acordo entre as partes, por conciliação, por mediação ou por comitê de resolução de disputas, desde que haja interesse da Administração;"},
+        {"numero": "III", "texto": "determinada por decisão arbitral, em decorrência de cláusula compromissória ou compromisso arbitral, ou por decisão judicial."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "A extinção determinada por ato unilateral da Administração e a extinção consensual deverão ser precedidas de autorização escrita e fundamentada da autoridade competente e reduzidas a termo no respectivo processo."},
+        {"numero": "2", "texto": "Quando a extinção decorrer de culpa exclusiva da Administração, o contratado será ressarcido pelos prejuízos regularmente comprovados que houver sofrido e terá direito a:",
+          "incisos": [
+            {"numero": "I", "texto": "devolução da garantia;"},
+            {"numero": "II", "texto": "pagamentos devidos pela execução do contrato até a data de extinção;"},
+            {"numero": "III", "texto": "pagamento do custo da desmobilização."}
+          ]
+        }
+      ]
+    },
+    "art-139": {
+      "numero": "139",
+      "conteudo": "A extinção determinada por ato unilateral da Administração poderá acarretar, sem prejuízo das sanções previstas nesta Lei, as seguintes consequências:",
+      "incisos": [
+        {"numero": "I", "texto": "assunção imediata do objeto do contrato, no estado e local em que se encontrar, por ato próprio da Administração;"},
+        {"numero": "II", "texto": "ocupação e utilização do local, das instalações, dos equipamentos, do material e do pessoal empregados na execução do contrato e necessários à sua continuidade;"},
+        {"numero": "III", "texto": "execução da garantia contratual para:", "alineas": [
+          "ressarcimento da Administração Pública por prejuízos decorrentes da não execução;",
+          "pagamento de verbas trabalhistas, fundiárias e previdenciárias, quando cabível;",
+          "pagamento das multas devidas à Administração Pública;",
+          "exigência da assunção da execução e da conclusão do objeto do contrato pela seguradora, quando cabível;"
+        ]},
+        {"numero": "IV", "texto": "retenção dos créditos decorrentes do contrato até o limite dos prejuízos causados à Administração Pública e das multas aplicadas."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "A aplicação das medidas previstas nos incisos I e II do caput deste artigo ficará a critério da Administração, que poderá dar continuidade à obra ou ao serviço por execução direta ou indireta."},
+        {"numero": "2", "texto": "Na hipótese do inciso II do caput deste artigo, o ato deverá ser precedido de autorização expressa do ministro de Estado, do secretário estadual ou do secretário municipal competente, conforme o caso."}
+      ]
+    },
+    "art-140": {
+      "numero": "140",
+      "conteudo": "O objeto do contrato será recebido:",
+      "incisos": [
+        {"numero": "I", "texto": "em se tratando de obras e serviços:", "alineas": [
+          "provisoriamente, pelo responsável por seu acompanhamento e fiscalização, mediante termo detalhado, quando verificado o cumprimento das exigências de caráter técnico;",
+          "definitivamente, por servidor ou comissão designada pela autoridade competente, mediante termo detalhado que comprove o atendimento das exigências contratuais;"
+        ]},
+        {"numero": "II", "texto": "em se tratando de compras:", "alineas": [
+          "provisoriamente, de forma sumária, pelo responsável por seu acompanhamento e fiscalização, com verificação posterior da conformidade do material com as exigências contratuais;",
+          "definitivamente, por servidor ou comissão designada pela autoridade competente, mediante termo detalhado que comprove o atendimento das exigências contratuais."
+        ]}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "O objeto do contrato poderá ser rejeitado, no todo ou em parte, quando estiver em desacordo com o contrato."},
+        {"numero": "2", "texto": "O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela segurança da obra ou serviço nem a responsabilidade ético-profissional pela perfeita execução do contrato, nos limites estabelecidos pela lei ou pelo contrato."},
+        {"numero": "3", "texto": "Os prazos e os métodos para a realização dos recebimentos provisório e definitivo serão definidos em regulamento ou no contrato."},
+        {"numero": "4", "texto": "Salvo disposição em contrário constante do edital ou de ato normativo, os ensaios, os testes e as demais provas para aferição da boa execução do objeto do contrato exigidos por normas técnicas oficiais correrão por conta do contratado."},
+        {"numero": "5", "texto": "Em se tratando de projeto de obra, o recebimento definitivo pela Administração não eximirá o projetista ou o consultor da responsabilidade objetiva por todos os danos causados por falha de projeto."},
+        {"numero": "6", "texto": "Em se tratando de obra, o recebimento definitivo pela Administração não eximirá o contratado, pelo prazo mínimo de 5 (cinco) anos, admitida a previsão de prazo de garantia superior no edital e no contrato, da responsabilidade objetiva pela solidez e pela segurança dos materiais e dos serviços executados e pela funcionalidade da construção, da reforma, da recuperação ou da ampliação do bem imóvel, e, em caso de vício, defeito ou incorreção identificados, o contratado ficará responsável pela reparação, pela correção, pela reconstrução ou pela substituição necessárias."}
+      ]
+    },
+    "art-141": {
+      "numero": "141",
+      "conteudo": "No dever de pagamento pela Administração, será observada a ordem cronológica para cada fonte diferenciada de recursos, subdividida nas seguintes categorias de contratos:",
+      "incisos": [
+        {"numero": "I", "texto": "fornecimento de bens;"},
+        {"numero": "II", "texto": "locações;"},
+        {"numero": "III", "texto": "prestação de serviços;"},
+        {"numero": "IV", "texto": "realização de obras."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "A ordem cronológica referida no caput deste artigo poderá ser alterada, mediante prévia justificativa da autoridade competente e posterior comunicação ao órgão de controle interno da Administração e ao tribunal de contas competente, exclusivamente nas seguintes situações:",
+          "incisos": [
+            {"numero": "I", "texto": "grave perturbação da ordem, situação de emergência ou calamidade pública;"},
+            {"numero": "II", "texto": "pagamento a microempresa, empresa de pequeno porte, agricultor familiar, produtor rural pessoa física, microempreendedor individual e sociedade cooperativa, desde que demonstrado o risco de descontinuidade do cumprimento do objeto do contrato;"},
+            {"numero": "III", "texto": "pagamento de serviços necessários ao funcionamento dos sistemas estruturantes, desde que demonstrado o risco de descontinuidade do cumprimento do objeto do contrato;"},
+            {"numero": "IV", "texto": "pagamento de direitos oriundos de contratos em caso de falência, recuperação judicial ou dissolução da empresa contratada;"},
+            {"numero": "V", "texto": "pagamento de contrato cujo objeto seja imprescindível para assegurar a integridade do patrimônio público ou para manter o funcionamento das atividades finalísticas do órgão ou entidade, quando demonstrado o risco de descontinuidade da prestação de serviço público de relevância ou o cumprimento da missão institucional."}
+          ]
+        },
+        {"numero": "2", "texto": "A inobservância imotivada da ordem cronológica referida no caput deste artigo ensejará a apuração de responsabilidade do agente responsável, cabendo aos órgãos de controle a sua fiscalização."},
+        {"numero": "3", "texto": "O órgão ou entidade deverá disponibilizar, mensalmente, em seção específica de acesso à informação em seu sítio na internet, a ordem cronológica de seus pagamentos, bem como as justificativas que fundamentarem a eventual alteração dessa ordem."}
+      ]
+    },
+    "art-142": {
+      "numero": "142",
+      "conteudo": "Disposição expressa no edital ou no contrato poderá prever pagamento em conta vinculada ou pagamento pela efetiva comprovação do fato gerador.",
+      "paragrafos": [
+        {"numero": "único", "texto": "(VETADO)."}
+      ]
+    },
+    "art-143": {
+      "numero": "143",
+      "conteudo": "No caso de controvérsia sobre a execução do objeto, quanto a dimensão, qualidade e quantidade, a parcela incontroversa deverá ser liberada no prazo previsto para pagamento."
+    },
+    "art-144": {
+      "numero": "144",
+      "conteudo": "Na contratação de obras, fornecimentos e serviços, inclusive de engenharia, poderá ser estabelecida remuneração variável vinculada ao desempenho do contratado, com base em metas, padrões de qualidade, critérios de sustentabilidade ambiental e prazos de entrega definidos no edital de licitação e no contrato.",
+      "paragrafos": [
+        {"numero": "1", "texto": "O pagamento poderá ser ajustado em base percentual sobre o valor economizado em determinada despesa, quando o objeto do contrato visar à implantação de processo de racionalização, hipótese em que as despesas correrão à conta dos mesmos créditos orçamentários, na forma de regulamentação específica."},
+        {"numero": "2", "texto": "A utilização de remuneração variável será motivada e respeitará o limite orçamentário fixado pela Administração para a contratação."}
+      ]
+    },
+    "art-145": {
+      "numero": "145",
+      "conteudo": "Não será permitido pagamento antecipado, parcial ou total, relativo a parcelas contratuais vinculadas ao fornecimento de bens, à execução de obras ou à prestação de serviços.",
+      "paragrafos": [
+        {"numero": "1", "texto": "A antecipação de pagamento somente será permitida se propiciar sensível economia de recursos ou se representar condição indispensável para a obtenção do bem ou para a prestação do serviço, hipótese que deverá ser previamente justificada no processo licitatório e expressamente prevista no edital de licitação ou instrumento formal de contratação direta."},
+        {"numero": "2", "texto": "A Administração poderá exigir a prestação de garantia adicional como condição para o pagamento antecipado."},
+        {"numero": "3", "texto": "Caso o objeto não seja executado no prazo contratual, o valor antecipado deverá ser devolvido."}
+      ]
+    },
+    "art-146": {
+      "numero": "146",
+      "conteudo": "No ato de liquidação da despesa, os serviços de contabilidade comunicarão aos órgãos da administração tributária as características da despesa e os valores pagos, conforme o disposto no art. 63 da Lei nº 4.320, de 17 de março de 1964."
+    },
+    "art-147": {
+      "numero": "147",
+      "conteudo": "Constatada irregularidade no procedimento licitatório ou na execução contratual, caso não seja possível o saneamento, a decisão sobre a suspensão da execução ou sobre a declaração de nulidade do contrato somente será adotada na hipótese em que se revelar medida de interesse público, com avaliação, entre outros, dos seguintes aspectos:",
+      "incisos": [
+        {"numero": "I", "texto": "impactos econômicos e financeiros decorrentes do atraso na fruição dos benefícios do objeto do contrato;"},
+        {"numero": "II", "texto": "riscos sociais, ambientais e à segurança da população local decorrentes do atraso na fruição dos benefícios do objeto do contrato;"},
+        {"numero": "III", "texto": "motivação social e ambiental do contrato;"},
+        {"numero": "IV", "texto": "custo da deterioração ou da perda das parcelas executadas;"},
+        {"numero": "V", "texto": "despesa necessária à preservação das instalações e dos serviços já executados;"},
+        {"numero": "VI", "texto": "despesa inerente à desmobilização e ao posterior retorno às atividades;"},
+        {"numero": "VII", "texto": "medidas efetivamente adotadas pelo titular do órgão ou entidade para o saneamento dos indícios de irregularidades apontados;"},
+        {"numero": "VIII", "texto": "custo total e estágio de execução física e financeira dos contratos, dos convênios, das obras ou das parcelas envolvidas;"},
+        {"numero": "IX", "texto": "fechamento de postos de trabalho diretos e indiretos em razão da paralisação;"},
+        {"numero": "X", "texto": "custo para realização de nova licitação ou celebração de novo contrato;"},
+        {"numero": "XI", "texto": "custo de oportunidade do capital durante o período de paralisação."}
+      ],
+      "paragrafos": [
+        {"numero": "único", "texto": "Caso a paralisação ou anulação não se revele medida de interesse público, o poder público deverá optar pela continuidade do contrato e pela solução da irregularidade por meio de indenização por perdas e danos, sem prejuízo da apuração de responsabilidade e da aplicação de penalidades cabíveis."}
+      ]
+    },
+    "art-148": {
+      "numero": "148",
+      "conteudo": "A declaração de nulidade do contrato administrativo requererá análise prévia do interesse público envolvido, na forma do art. 147 desta Lei, e operará retroativamente, impedindo os efeitos jurídicos que o contrato deveria produzir ordinariamente e desconstituindo os já produzidos.",
+      "paragrafos": [
+        {"numero": "1", "texto": "Caso não seja possível o retorno à situação fática anterior, a nulidade será resolvida pela indenização por perdas e danos, sem prejuízo da apuração de responsabilidade e aplicação das penalidades cabíveis."},
+        {"numero": "2", "texto": "Ao declarar a nulidade do contrato, a autoridade, com vistas à continuidade da atividade administrativa, poderá decidir que ela só tenha eficácia em momento futuro, suficiente para efetuar nova contratação, por prazo de até 6 (seis) meses, prorrogável uma única vez."}
+      ]
+    },
+    "art-149": {
+      "numero": "149",
+      "conteudo": "A nulidade não exonerará a Administração do dever de indenizar o contratado pelo que houver executado até a data em que for declarada ou tornada eficaz, bem como por outros prejuízos regularmente comprovados, desde que não lhe seja imputável, e será promovida a responsabilização de quem lhe tenha dado causa."
+    },
+    "art-150": {
+      "numero": "150",
+      "conteudo": "Nenhuma contratação será feita sem a caracterização adequada de seu objeto e sem a indicação dos créditos orçamentários para pagamento das parcelas contratuais vincendas no exercício em que for realizada a contratação, sob pena de nulidade do ato e de responsabilização de quem lhe tiver dado causa."
+    },
+    "art-151": {
+      "numero": "151",
+      "conteudo": "Nas contratações regidas por esta Lei, poderão ser utilizados meios alternativos de prevenção e resolução de controvérsias, notadamente a conciliação, a mediação, o comitê de resolução de disputas e a arbitragem.",
+      "paragrafos": [
+        {"numero": "único", "texto": "Será aplicado o disposto no caput deste artigo às controvérsias relacionadas a direitos patrimoniais disponíveis, como as questões relacionadas ao restabelecimento do equilíbrio econômico-financeiro do contrato, ao inadimplemento de obrigações contratuais por quaisquer das partes e ao cálculo de indenizações."}
+      ]
+    },
+    "art-152": {
+      "numero": "152",
+      "conteudo": "A arbitragem será sempre de direito e observará o princípio da publicidade."
+    },
+    "art-153": {
+      "numero": "153",
+      "conteudo": "Os contratos poderão ser aditados para permitir a adoção dos meios alternativos de resolução de controvérsias."
+    },
+    "art-154": {
+      "numero": "154",
+      "conteudo": "O processo de escolha dos árbitros, dos colegiados arbitrais e dos comitês de resolução de disputas observará critérios isonômicos, técnicos e transparentes."
+    },
+    "art-155": {
+      "numero": "155",
+      "conteudo": "O licitante ou o contratado será responsabilizado administrativamente pelas seguintes infrações:",
+      "incisos": [
+        {"numero": "I", "texto": "dar causa à inexecução parcial do contrato;"},
+        {"numero": "II", "texto": "dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao funcionamento dos serviços públicos ou ao interesse coletivo;"},
+        {"numero": "III", "texto": "dar causa à inexecução total do contrato;"},
+        {"numero": "IV", "texto": "deixar de entregar a documentação exigida para o certame;"},
+        {"numero": "V", "texto": "não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado;"},
+        {"numero": "VI", "texto": "não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando convocado dentro do prazo de validade de sua proposta;"},
+        {"numero": "VII", "texto": "ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo justificado;"},
+        {"numero": "VIII", "texto": "apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a licitação ou a execução do contrato;"},
+        {"numero": "IX", "texto": "fraudar a licitação ou praticar ato fraudulento na execução do contrato;"},
+        {"numero": "X", "texto": "comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;"},
+        {"numero": "XI", "texto": "praticar atos ilícitos com vistas a frustrar os objetivos da licitação;"},
+        {"numero": "XII", "texto": "praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013."}
+      ]
+    },
+    "art-156": {
+      "numero": "156",
+      "conteudo": "Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as seguintes sanções:",
+      "incisos": [
+        {"numero": "I", "texto": "advertência;"},
+        {"numero": "II", "texto": "multa;"},
+        {"numero": "III", "texto": "impedimento de licitar e contratar;"},
+        {"numero": "IV", "texto": "declaração de inidoneidade para licitar ou contratar."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "Na aplicação das sanções serão considerados:",
+          "incisos": [
+            {"numero": "I", "texto": "a natureza e a gravidade da infração cometida;"},
+            {"numero": "II", "texto": "as peculiaridades do caso concreto;"},
+            {"numero": "III", "texto": "as circunstâncias agravantes ou atenuantes;"},
+            {"numero": "IV", "texto": "os danos que dela provierem para a Administração Pública;"},
+            {"numero": "V", "texto": "a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos de controle."}
+          ]
+        },
+        {"numero": "2", "texto": "A sanção prevista no inciso I do caput deste artigo será aplicada exclusivamente pela infração administrativa prevista no inciso I do caput do art. 155 desta Lei, quando não se justificar a imposição de penalidade mais grave."},
+        {"numero": "3", "texto": "A sanção prevista no inciso II do caput deste artigo, calculada na forma do edital ou do contrato, não poderá ser inferior a 0,5% (cinco décimos por cento) nem superior a 30% (trinta por cento) do valor do contrato licitado ou celebrado com contratação direta e será aplicada ao responsável por qualquer das infrações administrativas previstas no art. 155 desta Lei."},
+        {"numero": "4", "texto": "A sanção prevista no inciso III do caput deste artigo será aplicada ao responsável pelas infrações administrativas previstas nos incisos II, III, IV, V, VI e VII do caput do art. 155 desta Lei, quando não se justificar a imposição de penalidade mais grave, e impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta do ente federativo que tiver aplicado a sanção, pelo prazo máximo de 3 (três) anos."},
+        {"numero": "5", "texto": "A sanção prevista no inciso IV do caput deste artigo será aplicada ao responsável pelas infrações administrativas previstas nos incisos VIII, IX, X, XI e XII do caput do art. 155 desta Lei, bem como pelas infrações administrativas previstas nos incisos II, III, IV, V, VI e VII do caput do referido artigo que justifiquem a imposição de penalidade mais grave que a sanção referida no § 4º deste artigo, e impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos."},
+        {"numero": "6", "texto": "A sanção estabelecida no inciso IV do caput deste artigo será precedida de análise jurídica e observará as seguintes regras:",
+          "incisos": [
+            {"numero": "I", "texto": "quando aplicada por órgão do Poder Executivo, será de competência exclusiva de ministro de Estado, de secretário estadual ou de secretário municipal e, quando aplicada por autarquia ou fundação, será de competência exclusiva da autoridade máxima da entidade;"},
+            {"numero": "II", "texto": "quando aplicada por órgãos dos Poderes Legislativo e Judiciário, pelo Ministério Público e pela Defensoria Pública no desempenho da função administrativa, será de competência exclusiva de autoridade de nível hierárquico equivalente às autoridades referidas no inciso I deste parágrafo, na forma de regulamento."}
+          ]
+        },
+        {"numero": "7", "texto": "As sanções previstas nos incisos I, III e IV do caput deste artigo poderão ser aplicadas cumulativamente com a prevista no inciso II do caput deste artigo."},
+        {"numero": "8", "texto": "Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento eventualmente devido pela Administração ao contratado, além da perda desse valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente."},
+        {"numero": "9", "texto": "A aplicação das sanções previstas no caput deste artigo não exclui, em hipótese alguma, a obrigação de reparação integral do dano causado à Administração Pública."}
+      ]
+    },
+    "art-157": {
+      "numero": "157",
+      "conteudo": "Na aplicação da sanção prevista no inciso II do caput do art. 156 desta Lei, será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis, contado da data de sua intimação."
+    },
+    "art-158": {
+      "numero": "158",
+      "conteudo": "A aplicação das sanções previstas nos incisos III e IV do caput do art. 156 desta Lei requererá a instauração de processo de responsabilização, a ser conduzido por comissão composta de 2 (dois) ou mais servidores estáveis, que avaliará fatos e circunstâncias conhecidos e intimará o licitante ou o contratado para, no prazo de 15 (quinze) dias úteis, contado da data de intimação, apresentar defesa escrita e especificar as provas que pretenda produzir.",
+      "paragrafos": [
+        {"numero": "1", "texto": "Em órgão ou entidade da Administração Pública cujo quadro funcional não seja formado de servidores estatutários, a comissão a que se refere o caput deste artigo será composta de 2 (dois) ou mais empregados públicos pertencentes aos seus quadros permanentes, preferencialmente com, no mínimo, 3 (três) anos de tempo de serviço no órgão ou entidade."},
+        {"numero": "2", "texto": "Na hipótese de deferimento de pedido de produção de novas provas ou de juntada de provas julgadas indispensáveis pela comissão, o licitante ou o contratado poderá apresentar alegações finais no prazo de 15 (quinze) dias úteis, contado da data da intimação."},
+        {"numero": "3", "texto": "Serão indeferidas pela comissão, mediante decisão fundamentada, provas ilícitas, impertinentes, desnecessárias, protelatórias ou intempestivas."},
+        {"numero": "4", "texto": "A prescrição ocorrerá em 5 (cinco) anos, contados da ciência da infração pela Administração, e será:",
+          "incisos": [
+            {"numero": "I", "texto": "interrompida pela instauração do processo de responsabilização a que se refere o caput deste artigo;"},
+            {"numero": "II", "texto": "suspensa pela celebração de acordo de leniência previsto na Lei nº 12.846, de 1º de agosto de 2013;"},
+            {"numero": "III", "texto": "suspensa por decisão judicial que inviabilize a conclusão da apuração administrativa."}
+          ]
+        }
+      ]
+    },
+    "art-159": {
+      "numero": "159",
+      "conteudo": "Os atos previstos como infrações administrativas nesta Lei ou em outras leis de licitações e contratos da Administração Pública que também sejam tipificados como atos lesivos na Lei nº 12.846, de 1º de agosto de 2013, serão apurados e julgados conjuntamente, nos mesmos autos, observados o rito procedimental e a autoridade competente definidos na referida Lei.",
+      "paragrafos": [
+        {"numero": "único", "texto": "(VETADO)."}
+      ]
+    },
+    "art-160": {
+      "numero": "160",
+      "conteudo": "A personalidade jurídica poderá ser desconsiderada sempre que utilizada com abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos nesta Lei ou para provocar confusão patrimonial, e, nesse caso, todos os efeitos das sanções aplicadas à pessoa jurídica serão estendidos aos seus administradores e sócios com poderes de administração, a pessoa jurídica sucessora ou a empresa do mesmo ramo com relação de coligação ou controle, de fato ou de direito, com o sancionado, observados, em todos os casos, o contraditório, a ampla defesa e a obrigatoriedade de análise jurídica prévia." 
+    },
+    "art-161": {
+      "numero": "161",
+      "conteudo": "Os órgãos e entidades dos Poderes Executivo, Legislativo e Judiciário de todos os entes federativos deverão, no prazo máximo 15 (quinze) dias úteis, contado da data de aplicação da sanção, informar e manter atualizados os dados relativos às sanções por eles aplicadas, para fins de publicidade no Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e no Cadastro Nacional de Empresas Punidas (Cnep), instituídos no âmbito do Poder Executivo federal.",
+      "paragrafos": [
+        {"numero": "único", "texto": "Para fins de aplicação das sanções previstas nos incisos I, II, III e IV do caput do art. 156 desta Lei, o Poder Executivo regulamentará a forma de cômputo e as consequências da soma de diversas sanções aplicadas a uma mesma empresa e derivadas de contratos distintos."}
+      ]
+    },
+    "art-162": {
+      "numero": "162",
+      "conteudo": "O atraso injustificado na execução do contrato sujeitará o contratado a multa de mora, na forma prevista em edital ou em contrato.",
+      "paragrafos": [
+        {"numero": "único", "texto": "A aplicação de multa de mora não impedirá que a Administração a converta em compensatória e promova a extinção unilateral do contrato com a aplicação cumulada de outras sanções previstas nesta Lei."}
+      ]
+    },
+    "art-163": {
+      "numero": "163",
+      "conteudo": "É admitida a reabilitação do licitante ou contratado perante a própria autoridade que aplicou a penalidade, exigidos, cumulativamente:",
+      "incisos": [
+        {"numero": "I", "texto": "reparação integral do dano causado à Administração Pública;"},
+        {"numero": "II", "texto": "pagamento da multa;"},
+        {"numero": "III", "texto": "transcurso do prazo mínimo de 1 (um) ano da aplicação da penalidade, no caso de impedimento de licitar e contratar, ou de 3 (três) anos da aplicação da penalidade, no caso de declaração de inidoneidade;"},
+        {"numero": "IV", "texto": "cumprimento das condições de reabilitação definidas no ato punitivo;"},
+        {"numero": "V", "texto": "análise jurídica prévia, com posicionamento conclusivo quanto ao cumprimento dos requisitos definidos neste artigo."}
+      ],
+      "paragrafos": [
+        {"numero": "único", "texto": "A sanção pelas infrações previstas nos incisos VIII e XII do caput do art. 155 desta Lei exigirá, como condição de reabilitação do licitante ou contratado, a implantação ou aperfeiçoamento de programa de integridade pelo responsável.    (Regulamento)"}
+      ]
+    },
+    "art-164": {
+      "numero": "164",
+      "conteudo": "Qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade na aplicação desta Lei ou para solicitar esclarecimento sobre os seus termos, devendo protocolar o pedido até 3 (três) dias úteis antes da data de abertura do certame.",
+      "paragrafos": [
+        {"numero": "único", "texto": "A resposta à impugnação ou ao pedido de esclarecimento será divulgada em sítio eletrônico oficial no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do certame."}
+      ]
+    },
+    "art-165": {
+      "numero": "165",
+      "conteudo": "Dos atos da Administração decorrentes da aplicação desta Lei cabem:",
+      "incisos": [
+        {"numero": "I", "texto": "recurso, no prazo de 3 (três) dias úteis, contado da data de intimação ou de lavratura da ata, em face de:", "alineas": [
+          "ato que defira ou indefira pedido de pré-qualificação de interessado ou de inscrição em registro cadastral, sua alteração ou cancelamento;",
+          "julgamento das propostas;",
+          "ato de habilitação ou inabilitação de licitante;",
+          "anulação ou revogação da licitação;",
+          "extinção do contrato, quando determinada por ato unilateral e escrito da Administração;"
+        ]},
+        {"numero": "II", "texto": "pedido de reconsideração, no prazo de 3 (três) dias úteis, contado da data de intimação, relativamente a ato do qual não caiba recurso hierárquico."}
+      ],
+      "paragrafos": [
+        {"numero": "1", "texto": "Quanto ao recurso apresentado em virtude do disposto nas alíneas “b” e “c” do inciso I do caput deste artigo, serão observadas as seguintes disposições:",
+          "incisos": [
+            {"numero": "I", "texto": "a intenção de recorrer deverá ser manifestada imediatamente, sob pena de preclusão, e o prazo para apresentação das razões recursais previsto no inciso I do caput deste artigo será iniciado na data de intimação ou de lavratura da ata de habilitação ou inabilitação ou, na hipótese de adoção da inversão de fases prevista no § 1º do art. 17 desta Lei, da ata de julgamento;"},
+            {"numero": "II", "texto": "a apreciação dar-se-á em fase única."}
+          ]
+        },
+        {"numero": "2", "texto": "O recurso de que trata o inciso I do caput deste artigo será dirigido à autoridade que tiver editado o ato ou proferido a decisão recorrida, que, se não reconsiderar o ato ou a decisão no prazo de 3 (três) dias úteis, encaminhará o recurso com a sua motivação à autoridade superior, a qual deverá proferir sua decisão no prazo máximo de 10 (dez) dias úteis, contado do recebimento dos autos."},
+        {"numero": "3", "texto": "O acolhimento do recurso implicará invalidação apenas de ato insuscetível de aproveitamento."},
+        {"numero": "4", "texto": "O prazo para apresentação de contrarrazões será o mesmo do recurso e terá início na data de intimação pessoal ou de divulgação da interposição do recurso."},
+        {"numero": "5", "texto": "Será assegurado ao licitante vista dos elementos indispensáveis à defesa de seus interesses."}
+      ]
+    },
+    "art-166": {
+      "numero": "166",
+      "conteudo": "Da aplicação das sanções previstas nos incisos I, II e III do caput do art. 156 desta Lei caberá recurso no prazo de 15 (quinze) dias úteis, contado da data da intimação.",
+      "paragrafos": [
+        {"numero": "único", "texto": "O recurso de que trata o caput deste artigo será dirigido à autoridade que tiver proferido a decisão recorrida, que, se não a reconsiderar no prazo de 5 (cinco) dias úteis, encaminhará o recurso com sua motivação à autoridade superior, a qual deverá proferir sua decisão no prazo máximo de 20 (vinte) dias úteis, contado do recebimento dos autos."}
+      ]
+    },
+    "art-167": {
+      "numero": "167",
+      "conteudo": "Da aplicação da sanção prevista no inciso IV do caput do art. 156 desta Lei caberá apenas pedido de reconsideração, que deverá ser apresentado no prazo de 15 (quinze) dias úteis, contado da data da intimação, e decidido no prazo máximo de 20 (vinte) dias úteis, contado do seu recebimento."
+    },
+    "art-168": {
+      "numero": "168",
+      "conteudo": "O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida até que sobrevenha decisão final da autoridade competente.",
+      "paragrafos": [
+        {"numero": "único", "texto": "Na elaboração de suas decisões, a autoridade competente será auxiliada pelo órgão de assessoramento jurídico, que deverá dirimir dúvidas e subsidiá-la com as informações necessárias."}
+      ]
+    }
+  }
+}

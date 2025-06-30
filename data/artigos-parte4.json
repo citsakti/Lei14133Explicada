@@ -1,0 +1,535 @@
+{
+  "artigos": {
+    "art-71": {
+      "numero": "71",
+      "conteudo": "Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo licitatório será encaminhado à autoridade superior, que poderá:",
+      "incisos": [
+        "determinar o retorno dos autos para saneamento de irregularidades;",
+        "revogar a licitação por motivo de conveniência e oportunidade;",
+        "proceder à anulação da licitação, de ofício ou mediante provocação de terceiros, sempre que presente ilegalidade insanável;",
+        "adjudicar o objeto e homologar a licitação."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "Ao pronunciar a nulidade, a autoridade indicará expressamente os atos com vícios insanáveis, tornando sem efeito todos os subsequentes que deles dependam, e dará ensejo à apuração de responsabilidade de quem lhes tenha dado causa."
+        },
+        {
+          "numero": "2º",
+          "texto": "O motivo determinante para a revogação do processo licitatório deverá ser resultante de fato superveniente devidamente comprovado."
+        },
+        {
+          "numero": "3º",
+          "texto": "Nos casos de anulação e revogação, deverá ser assegurada a prévia manifestação dos interessados."
+        },
+        {
+          "numero": "4º",
+          "texto": "O disposto neste artigo será aplicado, no que couber, à contratação direta e aos procedimentos auxiliares da licitação."
+        }
+      ]
+    },
+    "art-72": {
+      "numero": "72",
+      "conteudo": "O processo de contratação direta, que compreende os casos de inexigibilidade e de dispensa de licitação, deverá ser instruído com os seguintes documentos:",
+      "incisos": [
+        "documento de formalização de demanda e, se for o caso, estudo técnico preliminar, análise de riscos, termo de referência, projeto básico ou projeto executivo;",
+        "estimativa de despesa, que deverá ser calculada na forma estabelecida no art. 23 desta Lei;",
+        "parecer jurídico e pareceres técnicos, se for o caso, que demonstrem o atendimento dos requisitos exigidos;",
+        "demonstração da compatibilidade da previsão de recursos orçamentários com o compromisso a ser assumido;",
+        "comprovação de que o contratado preenche os requisitos de habilitação e qualificação mínima necessária;",
+        "razão da escolha do contratado;",
+        "justificativa de preço;",
+        "autorização da autoridade competente."
+      ],
+      "paragrafos": [
+        {
+          "numero": "único",
+          "texto": "O ato que autoriza a contratação direta ou o extrato decorrente do contrato deverá ser divulgado e mantido à disposição do público em sítio eletrônico oficial."
+        }
+      ]
+    },
+    "art-73": {
+      "numero": "73",
+      "conteudo": "Na hipótese de contratação direta indevida ocorrida com dolo, fraude ou erro grosseiro, o contratado e o agente público responsável responderão solidariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis."
+    },
+    "art-74": {
+      "numero": "74",
+      "conteudo": "É inexigível a licitação quando inviável a competição, em especial nos casos de:",
+      "incisos": [
+        "aquisição de materiais, de equipamentos ou de gêneros ou contratação de serviços que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivos;",
+        "contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública;",
+        {
+          "texto": "contratação dos seguintes serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, vedada a inexigibilidade para serviços de publicidade e divulgação:",
+          "alineas": [
+            "estudos técnicos, planejamentos, projetos básicos ou projetos executivos;",
+            "pareceres, perícias e avaliações em geral;",
+            "assessorias ou consultorias técnicas e auditorias financeiras ou tributárias;",
+            "fiscalização, supervisão ou gerenciamento de obras ou serviços;",
+            "patrocínio ou defesa de causas judiciais ou administrativas;",
+            "treinamento e aperfeiçoamento de pessoal;",
+            "restauração de obras de arte e de bens de valor histórico;",
+            "controles de qualidade e tecnológico, análises, testes e ensaios de campo e laboratoriais, instrumentação e monitoramento de parâmetros específicos de obras e do meio ambiente e demais serviços de engenharia que se enquadrem no disposto neste inciso;"
+          ]
+        },
+        "objetos que devam ou possam ser contratados por meio de credenciamento;",
+        "aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "Para fins do disposto no inciso I do caput deste artigo, a Administração deverá demonstrar a inviabilidade de competição mediante atestado de exclusividade, contrato de exclusividade, declaração do fabricante ou outro documento idôneo capaz de comprovar que o objeto é fornecido ou prestado por produtor, empresa ou representante comercial exclusivos, vedada a preferência por marca específica."
+        },
+        {
+          "numero": "2º",
+          "texto": "Para fins do disposto no inciso II do caput deste artigo, considera-se empresário exclusivo a pessoa física ou jurídica que possua contrato, declaração, carta ou outro documento que ateste a exclusividade permanente e contínua de representação, no País ou em Estado específico, do profissional do setor artístico, afastada a possibilidade de contratação direta por inexigibilidade por meio de empresário com representação restrita a evento ou local específico."
+        },
+        {
+          "numero": "3º",
+          "texto": "Para fins do disposto no inciso III do caput deste artigo, considera-se de notória especialização o profissional ou a empresa cujo conceito no campo de sua especialidade, decorrente de desempenho anterior, estudos, experiência, publicações, organização, aparelhamento, equipe técnica ou outros requisitos relacionados com suas atividades, permita inferir que o seu trabalho é essencial e reconhecidamente adequado à plena satisfação do objeto do contrato."
+        },
+        {
+          "numero": "4º",
+          "texto": "Nas contratações com fundamento no inciso III do caput deste artigo, é vedada a subcontratação de empresas ou a atuação de profissionais distintos daqueles que tenham justificado a inexigibilidade."
+        },
+        {
+          "numero": "5º",
+          "texto": "Nas contratações com fundamento no inciso V do caput deste artigo, devem ser observados os seguintes requisitos:",
+          "incisos": [
+            "avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações, quando imprescindíveis às necessidades de utilização, e do prazo de amortização dos investimentos;",
+            "certificação da inexistência de imóveis públicos vagos e disponíveis que atendam ao objeto;",
+            "justificativas que demonstrem a singularidade do imóvel a ser comprado ou locado pela Administração e que evidenciem vantagem para ela."
+          ]
+        }
+      ]
+    },
+    "art-75": {
+      "numero": "75",
+      "conteudo": "É dispensável a licitação:",
+      "incisos": [
+        "para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores;",
+        "para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras;",
+        {
+          "texto": "para contratação que mantenha todas as condições definidas em edital de licitação realizada há menos de 1 (um) ano, quando se verificar que naquela licitação:",
+          "alineas": [
+            "não surgiram licitantes interessados ou não foram apresentadas propostas válidas;",
+            "as propostas apresentadas consignaram preços manifestamente superiores aos praticados no mercado ou incompatíveis com os fixados pelos órgãos oficiais competentes;"
+          ]
+        },
+        {
+          "texto": "para contratação que tenha por objeto:",
+          "alineas": [
+            "bens, componentes ou peças de origem nacional ou estrangeira necessários à manutenção de equipamentos, a serem adquiridos do fornecedor original desses equipamentos durante o período de garantia técnica, quando essa condição de exclusividade for indispensável para a vigência da garantia;",
+            "bens, serviços, alienações ou obras, nos termos de acordo internacional específico aprovado pelo Congresso Nacional, quando as condições ofertadas forem manifestamente vantajosas para a Administração;",
+            "produtos para pesquisa e desenvolvimento, limitada a contratação, no caso de obras e serviços de engenharia, ao valor de R$ 300.000,00 (trezentos mil reais);",
+            "transferência de tecnologia ou licenciamento de direito de uso ou de exploração de criação protegida, nas contratações realizadas por instituição científica, tecnológica e de inovação (ICT) pública ou por agência de fomento, desde que demonstrada vantagem para a Administração;",
+            "hortifrutigranjeiros, pães e outros gêneros perecíveis, no período necessário para a realização dos processos licitatórios correspondentes, hipótese em que a contratação será realizada diretamente com base no preço do dia;",
+            "bens ou serviços produzidos ou prestados no País que envolvam, cumulativamente, alta complexidade tecnológica e defesa nacional;",
+            "materiais de uso das Forças Armadas, com exceção de materiais de uso pessoal e administrativo, quando houver necessidade de manter a padronização requerida pela estrutura de apoio logístico dos meios navais, aéreos e terrestres, mediante autorização por ato do comandante da força militar;",
+            "bens e serviços para atendimento dos contingentes militares das forças singulares brasileiras empregadas em operações de paz no exterior, hipótese em que a contratação deverá ser justificada quanto ao preço e à escolha do fornecedor ou executante e ratificada pelo comandante da força militar;",
+            "abastecimento ou suprimento de efetivos militares em estada eventual de curta duração em portos, aeroportos ou localidades diferentes de suas sedes, por motivo de movimentação operacional ou de adestramento;",
+            "coleta, processamento e comercialização de resíduos sólidos urbanos recicláveis ou reutilizáveis, em áreas com sistema de coleta seletiva de lixo, realizados por associações ou cooperativas formadas exclusivamente de pessoas físicas de baixa renda reconhecidas pelo poder público como catadores de materiais recicláveis, com o uso de equipamentos compatíveis com as normas técnicas, ambientais e de saúde pública;",
+            "aquisição ou restauração de obras de arte e objetos históricos, de autenticidade certificada, desde que inerente às finalidades do órgão ou com elas compatível;",
+            "serviços especializados ou aquisição ou locação de equipamentos destinados ao rastreamento e à obtenção de provas previstas nos incisos II e V do caput do art. 3º da Lei nº 12.850, de 2 de agosto de 2013, quando houver necessidade justificada de manutenção de sigilo sobre a investigação;",
+            "aquisição de medicamentos destinados exclusivamente ao tratamento de doenças raras definidas pelo Ministério da Saúde;"
+          ]
+        },
+        "para contratação com vistas ao cumprimento do disposto nos arts. 3º, 3º-A, 4º, 5º e 20 da Lei nº 10.973, de 2 de dezembro de 2004, observados os princípios gerais de contratação constantes da referida Lei;",
+        "para contratação que possa acarretar comprometimento da segurança nacional, nos casos estabelecidos pelo Ministro de Estado da Defesa, mediante demanda dos comandos das Forças Armadas ou dos demais ministérios;",
+        "nos casos de guerra, estado de defesa, estado de sítio, intervenção federal ou de grave perturbação da ordem;",
+        "nos casos de emergência ou de calamidade pública, quando caracterizada urgência de atendimento de situação que possa ocasionar prejuízo ou comprometer a continuidade dos serviços públicos ou a segurança de pessoas, obras, serviços, equipamentos e outros bens, públicos ou particulares, e somente para aquisição dos bens necessários ao atendimento da situação emergencial ou calamitosa e para as parcelas de obras e serviços que possam ser concluídas no prazo máximo de 1 (um) ano, contado da data de ocorrência da emergência ou da calamidade, vedadas a prorrogação dos respectivos contratos e a recontratação de empresa já contratada com base no disposto neste inciso;",
+        "para a aquisição, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade que integrem a Administração Pública e que tenham sido criados para esse fim específico, desde que o preço contratado seja compatível com o praticado no mercado;",
+        "quando a União tiver que intervir no domínio econômico para regular preços ou normalizar o abastecimento;",
+        "para celebração de contrato de programa com ente federativo ou com entidade de sua Administração Pública indireta que envolva prestação de serviços públicos de forma associada nos termos autorizados em contrato de consórcio público ou em convênio de cooperação;",
+        "para contratação em que houver transferência de tecnologia de produtos estratégicos para o Sistema Único de Saúde (SUS), conforme elencados em ato da direção nacional do SUS, inclusive por ocasião da aquisição desses produtos durante as etapas de absorção tecnológica, e em valores compatíveis com aqueles definidos no instrumento firmado para a transferência de tecnologia;",
+        "para contratação de profissionais para compor a comissão de avaliação de critérios de técnica, quando se tratar de profissional técnico de notória especialização;",
+        "para contratação de associação de pessoas com deficiência, sem fins lucrativos e de comprovada idoneidade, por órgão ou entidade da Administração Pública, para a prestação de serviços, desde que o preço contratado seja compatível com o praticado no mercado e os serviços contratados sejam prestados exclusivamente por pessoas com deficiência;",
+        "para contratação de instituição brasileira que tenha por finalidade estatutária apoiar, captar e executar atividades de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação, inclusive para gerir administrativa e financeiramente essas atividades, ou para contratação de instituição dedicada à recuperação social da pessoa presa, desde que o contratado tenha inquestionável reputação ética e profissional e não tenha fins lucrativos;",
+        "para aquisição, por pessoa jurídica de direito público interno, de insumos estratégicos para a saúde produzidos por fundação que, regimental ou estatutariamente, tenha por finalidade apoiar órgão da Administração Pública direta, sua autarquia ou fundação em projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e de estímulo à inovação, inclusive na gestão administrativa e financeira necessária à execução desses projetos, ou em parcerias que envolvam transferência de tecnologia de produtos estratégicos para o SUS, nos termos do inciso XII deste caput, e que tenha sido criada para esse fim específico em data anterior à entrada em vigor desta Lei, desde que o preço contratado seja compatível com o praticado no mercado;",
+        "para contratação de entidades privadas sem fins lucrativos para a implementação de cisternas ou outras tecnologias sociais de acesso à água para consumo humano e produção de alimentos, a fim de beneficiar as famílias rurais de baixa renda atingidas pela seca ou pela falta regular de água; e",
+        "para contratação de entidades privadas sem fins lucrativos, para a implementação do Programa Cozinha Solidária, que tem como finalidade fornecer alimentação gratuita preferencialmente à população em situação de vulnerabilidade e risco social, incluída a população em situação de rua, com vistas à promoção de políticas de segurança alimentar e nutricional e de assistência social e à efetivação de direitos sociais, dignidade humana, resgate social e melhoria da qualidade de vida."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "Para fins de aferição dos valores que atendam aos limites referidos nos incisos I e II do caput deste artigo, deverão ser observados:",
+          "incisos": [
+            "o somatório do que for despendido no exercício financeiro pela respectiva unidade gestora;",
+            "o somatório da despesa realizada com objetos de mesma natureza, entendidos como tais aqueles relativos a contratações no mesmo ramo de atividade."
+          ]
+        },
+        {
+          "numero": "2º",
+          "texto": "Os valores referidos nos incisos I e II do caput deste artigo serão duplicados para compras, obras e serviços contratados por consórcio público ou por autarquia ou fundação qualificadas como agências executivas na forma da lei."
+        },
+        {
+          "numero": "3º",
+          "texto": "As contratações de que tratam os incisos I e II do caput deste artigo serão preferencialmente precedidas de divulgação de aviso em sítio eletrônico oficial, pelo prazo mínimo de 3 (três) dias úteis, com a especificação do objeto pretendido e com a manifestação de interesse da Administração em obter propostas adicionais de eventuais interessados, devendo ser selecionada a proposta mais vantajosa."
+        },
+        {
+          "numero": "4º",
+          "texto": "As contratações de que tratam os incisos I e II do caput deste artigo serão preferencialmente pagas por meio de cartão de pagamento, cujo extrato deverá ser divulgado e mantido à disposição do público no Portal Nacional de Contratações Públicas (PNCP)."
+        },
+        {
+          "numero": "5º",
+          "texto": "A dispensa prevista na alínea “c” do inciso IV do caput deste artigo, quando aplicada a obras e serviços de engenharia, seguirá procedimentos especiais instituídos em regulamentação específica."
+        },
+        {
+          "numero": "6º",
+          "texto": "Para os fins do inciso VIII do caput deste artigo, considera-se emergencial a contratação por dispensa com objetivo de manter a continuidade do serviço público, e deverão ser observados os valores praticados pelo mercado na forma do art. 23 desta Lei e adotadas as providências necessárias para a conclusão do processo licitatório, sem prejuízo de apuração de responsabilidade dos agentes públicos que deram causa à situação emergencial."
+        },
+        {
+          "numero": "7º",
+          "texto": "Não se aplica o disposto no § 1º deste artigo às contratações de até R$ 8.000,00 (oito mil reais) de serviços de manutenção de veículos automotores de propriedade do órgão ou entidade contratante, incluído o fornecimento de peças."
+        }
+      ]
+    },
+    "art-76": {
+      "numero": "76",
+      "conteudo": "A alienação de bens da Administração Pública, subordinada à existência de interesse público devidamente justificado, será precedida de avaliação e obedecerá às seguintes normas:",
+      "incisos": [
+        {
+          "texto": "tratando-se de bens imóveis, inclusive os pertencentes às autarquias e às fundações, exigirá autorização legislativa e dependerá de licitação na modalidade leilão, dispensada a realização de licitação nos casos de:",
+          "alineas": [
+            "dação em pagamento;",
+            "doação, permitida exclusivamente para outro órgão ou entidade da Administração Pública, de qualquer esfera de governo, ressalvado o disposto nas alíneas “f”, “g” e “h” deste inciso;",
+            "permuta por outros imóveis que atendam aos requisitos relacionados às finalidades precípuas da Administração, desde que a diferença apurada não ultrapasse a metade do valor do imóvel que será ofertado pela União, segundo avaliação prévia, e ocorra a torna de valores, sempre que for o caso;",
+            "investidura;",
+            "venda a outro órgão ou entidade da Administração Pública de qualquer esfera de governo;",
+            "alienação gratuita ou onerosa, aforamento, concessão de direito real de uso, locação e permissão de uso de bens imóveis residenciais construídos, destinados ou efetivamente usados em programas de habitação ou de regularização fundiária de interesse social desenvolvidos por órgão ou entidade da Administração Pública;",
+            "alienação gratuita ou onerosa, aforamento, concessão de direito real de uso, locação e permissão de uso de bens imóveis comerciais de âmbito local, com área de até 250 m² (duzentos e cinquenta metros quadrados) e destinados a programas de regularização fundiária de interesse social desenvolvidos por órgão ou entidade da Administração Pública;",
+            "alienação e concessão de direito real de uso, gratuita ou onerosa, de terras públicas rurais da União e do Instituto Nacional de Colonização e Reforma Agrária (Incra) onde incidam ocupações até o limite de que trata o § 1º do art. 6º da Lei nº 11.952, de 25 de junho de 2009, para fins de regularização fundiária, atendidos os requisitos legais;",
+            "legitimação de posse de que trata o art. 29 da Lei nº 6.383, de 7 de dezembro de 1976, mediante iniciativa e deliberação dos órgãos da Administração Pública competentes;",
+            "legitimação fundiária e legitimação de posse de que trata a Lei nº 13.465, de 11 de julho de 2017;"
+          ]
+        },
+        {
+          "texto": "tratando-se de bens móveis, dependerá de licitação na modalidade leilão, dispensada a realização de licitação nos casos de:",
+          "alineas": [
+            "doação, permitida exclusivamente para fins e uso de interesse social, após avaliação de oportunidade e conveniência socioeconômica em relação à escolha de outra forma de alienação;",
+            "permuta, permitida exclusivamente entre órgãos ou entidades da Administração Pública;",
+            "venda de ações, que poderão ser negociadas em bolsa, observada a legislação específica;",
+            "venda de títulos, observada a legislação pertinente;",
+            "venda de bens produzidos ou comercializados por entidades da Administração Pública, em virtude de suas finalidades;",
+            "venda de materiais e equipamentos sem utilização previsível por quem deles dispõe para outros órgãos ou entidades da Administração Pública."
+          ]
+        }
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "A alienação de bens imóveis da Administração Pública cuja aquisição tenha sido derivada de procedimentos judiciais ou de dação em pagamento dispensará autorização legislativa e exigirá apenas avaliação prévia e licitação na modalidade leilão."
+        },
+        {
+          "numero": "2º",
+          "texto": "Os imóveis doados com base na alínea “b” do inciso I do caput deste artigo, cessadas as razões que justificaram sua doação, serão revertidos ao patrimônio da pessoa jurídica doadora, vedada sua alienação pelo beneficiário."
+        },
+        {
+          "numero": "3º",
+          "texto": "A Administração poderá conceder título de propriedade ou de direito real de uso de imóvel, admitida a dispensa de licitação, quando o uso destinar-se a:",
+          "incisos": [
+            "outro órgão ou entidade da Administração Pública, qualquer que seja a localização do imóvel;",
+            "pessoa natural que, nos termos de lei, regulamento ou ato normativo do órgão competente, haja implementado os requisitos mínimos de cultura, de ocupação mansa e pacífica e de exploração direta sobre área rural, observado o limite de que trata o § 1º do art. 6º da Lei nº 11.952, de 25 de junho de 2009."
+          ]
+        },
+        {
+          "numero": "4º",
+          "texto": "A aplicação do disposto no inciso II do § 3º deste artigo será dispensada de autorização legislativa e submeter-se-á aos seguintes condicionamentos:",
+          "incisos": [
+            "aplicação exclusiva às áreas em que a detenção por particular seja comprovadamente anterior a 1º de dezembro de 2004;",
+            "submissão aos demais requisitos e impedimentos do regime legal e administrativo de destinação e de regularização fundiária de terras públicas;",
+            "vedação de concessão para exploração não contemplada na lei agrária, nas leis de destinação de terras públicas ou nas normas legais ou administrativas de zoneamento ecológico-econômico;",
+            "previsão de extinção automática da concessão, dispensada notificação, em caso de declaração de utilidade pública, de necessidade pública ou de interesse social;",
+            "aplicação exclusiva a imóvel situado em zona rural e não sujeito a vedação, impedimento ou inconveniente à exploração mediante atividade agropecuária;",
+            "limitação a áreas de que trata o § 1º do art. 6º da Lei nº 11.952, de 25 de junho de 2009, vedada a dispensa de licitação para áreas superiores;",
+            "acúmulo com o quantitativo de área decorrente do caso previsto na alínea “i” do inciso I do caput deste artigo até o limite previsto no inciso VI deste parágrafo."
+          ]
+        },
+        {
+          "numero": "5º",
+          "texto": "Entende-se por investidura, para os fins desta Lei, a:",
+          "incisos": [
+            "alienação, ao proprietário de imóvel lindeiro, de área remanescente ou resultante de obra pública que se tornar inaproveitável isoladamente, por preço que não seja inferior ao da avaliação nem superior a 50% (cinquenta por cento) do valor máximo permitido para dispensa de licitação de bens e serviços previsto nesta Lei;",
+            "alienação, ao legítimo possuidor direto ou, na falta dele, ao poder público, de imóvel para fins residenciais construído em núcleo urbano anexo a usina hidrelétrica, desde que considerado dispensável na fase de operação da usina e que não integre a categoria de bens reversíveis ao final da concessão."
+          ]
+        },
+        {
+          "numero": "6º",
+          "texto": "A doação com encargo será licitada e de seu instrumento constarão, obrigatoriamente, os encargos, o prazo de seu cumprimento e a cláusula de reversão, sob pena de nulidade do ato, dispensada a licitação em caso de interesse público devidamente justificado."
+        },
+        {
+          "numero": "7º",
+          "texto": "Na hipótese do § 6º deste artigo, caso o donatário necessite oferecer o imóvel em garantia de financiamento, a cláusula de reversão e as demais obrigações serão garantidas por hipoteca em segundo grau em favor do doador."
+        }
+      ]
+    },
+    "art-77": {
+      "numero": "77",
+      "conteudo": "Para a venda de bens imóveis, será concedido direito de preferência ao licitante que, submetendo-se a todas as regras do edital, comprove a ocupação do imóvel objeto da licitação."
+    },
+    "art-78": {
+      "numero": "78",
+      "conteudo": "São procedimentos auxiliares das licitações e das contratações regidas por esta Lei:",
+      "incisos": [
+        "credenciamento;",
+        "pré-qualificação;",
+        "procedimento de manifestação de interesse;",
+        "sistema de registro de preços;",
+        "registro cadastral."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "Os procedimentos auxiliares de que trata o caput deste artigo obedecerão a critérios claros e objetivos definidos em regulamento."
+        },
+        {
+          "numero": "2º",
+          "texto": "O julgamento que decorrer dos procedimentos auxiliares das licitações previstos nos incisos II e III do caput deste artigo seguirá o mesmo procedimento das licitações."
+        }
+      ]
+    },
+    "art-79": {
+      "numero": "79",
+      "conteudo": "O credenciamento poderá ser usado nas seguintes hipóteses de contratação:",
+      "incisos": [
+        "paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas;",
+        "com seleção a critério de terceiros: caso em que a seleção do contratado está a cargo do beneficiário direto da prestação;",
+        "em mercados fluidos: caso em que a flutuação constante do valor da prestação e das condições de contratação inviabiliza a seleção de agente por meio de processo de licitação."
+      ],
+      "paragrafos": [
+        {
+          "numero": "único",
+          "texto": "Os procedimentos de credenciamento serão definidos em regulamento, observadas as seguintes regras:",
+          "incisos": [
+            "a Administração deverá divulgar e manter à disposição do público, em sítio eletrônico oficial, edital de chamamento de interessados, de modo a permitir o cadastramento permanente de novos interessados;",
+            "na hipótese do inciso I do caput deste artigo, quando o objeto não permitir a contratação imediata e simultânea de todos os credenciados, deverão ser adotados critérios objetivos de distribuição da demanda;",
+            "o edital de chamamento de interessados deverá prever as condições padronizadas de contratação e, nas hipóteses dos incisos I e II do caput deste artigo, deverá definir o valor da contratação;",
+            "na hipótese do inciso III do caput deste artigo, a Administração deverá registrar as cotações de mercado vigentes no momento da contratação;",
+            "não será permitido o cometimento a terceiros do objeto contratado sem autorização expressa da Administração;",
+            "será admitida a denúncia por qualquer das partes nos prazos fixados no edital."
+          ]
+        }
+      ]
+    },
+    "art-80": {
+      "numero": "80",
+      "conteudo": "A pré-qualificação é o procedimento técnico-administrativo para selecionar previamente:",
+      "incisos": [
+        "licitantes que reúnam condições de habilitação para participar de futura licitação ou de licitação vinculada a programas de obras ou de serviços objetivamente definidos;",
+        "bens que atendam às exigências técnicas ou de qualidade estabelecidas pela Administração."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "Na pré-qualificação observar-se-á o seguinte:",
+          "incisos": [
+            "quando aberta a licitantes, poderão ser dispensados os documentos que já constarem do registro cadastral;",
+            "quando aberta a bens, poderá ser exigida a comprovação de qualidade."
+          ]
+        },
+        {
+          "numero": "2º",
+          "texto": "O procedimento de pré-qualificação ficará permanentemente aberto para a inscrição de interessados."
+        },
+        {
+          "numero": "3º",
+          "texto": "Quanto ao procedimento de pré-qualificação, constarão do edital:",
+          "incisos": [
+            "as informações mínimas necessárias para definição do objeto;",
+            "a modalidade, a forma da futura licitação e os critérios de julgamento."
+          ]
+        },
+        {
+          "numero": "4º",
+          "texto": "A apresentação de documentos far-se-á perante órgão ou comissão indicada pela Administração, que deverá examiná-los no prazo máximo de 10 (dez) dias úteis e determinar correção ou reapresentação de documentos, quando for o caso, com vistas à ampliação da competição."
+        },
+        {
+          "numero": "5º",
+          "texto": "Os bens e os serviços pré-qualificados deverão integrar o catálogo de bens e serviços da Administração."
+        },
+        {
+          "numero": "6º",
+          "texto": "A pré-qualificação poderá ser realizada em grupos ou segmentos, segundo as especialidades dos fornecedores."
+        },
+        {
+          "numero": "7º",
+          "texto": "A pré-qualificação poderá ser parcial ou total, com alguns ou todos os requisitos técnicos ou de habilitação necessários à contratação, assegurada, em qualquer hipótese, a igualdade de condições entre os concorrentes."
+        },
+        {
+          "numero": "8º",
+          "texto": "Quanto ao prazo, a pré-qualificação terá validade:",
+          "incisos": [
+            "de 1 (um) ano, no máximo, e poderá ser atualizada a qualquer tempo;",
+            "não superior ao prazo de validade dos documentos apresentados pelos interessados."
+          ]
+        },
+        {
+          "numero": "9º",
+          "texto": "Os licitantes e os bens pré-qualificados serão obrigatoriamente divulgados e mantidos à disposição do público."
+        },
+        {
+          "numero": "10",
+          "texto": "A licitação que se seguir ao procedimento da pré-qualificação poderá ser restrita a licitantes ou bens pré-qualificados."
+        }
+      ]
+    },
+    "art-81": {
+      "numero": "81",
+      "conteudo": "A Administração poderá solicitar à iniciativa privada, mediante procedimento aberto de manifestação de interesse a ser iniciado com a publicação de edital de chamamento público, a propositura e a realização de estudos, investigações, levantamentos e projetos de soluções inovadoras que contribuam com questões de relevância pública, na forma de regulamento.",
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "Os estudos, as investigações, os levantamentos e os projetos vinculados à contratação e de utilidade para a licitação, realizados pela Administração ou com a sua autorização, estarão à disposição dos interessados, e o vencedor da licitação deverá ressarcir os dispêndios correspondentes, conforme especificado no edital."
+        },
+        {
+          "numero": "2º",
+          "texto": "A realização, pela iniciativa privada, de estudos, investigações, levantamentos e projetos em decorrência do procedimento de manifestação de interesse previsto no caput deste artigo:",
+          "incisos": [
+            "não atribuirá ao realizador direito de preferência no processo licitatório;",
+            "não obrigará o poder público a realizar licitação;",
+            "não implicará, por si só, direito a ressarcimento de valores envolvidos em sua elaboração;",
+            "será remunerada somente pelo vencedor da licitação, vedada, em qualquer hipótese, a cobrança de valores do poder público."
+          ]
+        },
+        {
+          "numero": "3º",
+          "texto": "Para aceitação dos produtos e serviços de que trata o caput deste artigo, a Administração deverá elaborar parecer fundamentado com a demonstração de que o produto ou serviço entregue é adequado e suficiente à compreensão do objeto, de que as premissas adotadas são compatíveis com as reais necessidades do órgão e de que a metodologia proposta é a que propicia maior economia e vantagem entre as demais possíveis."
+        },
+        {
+          "numero": "4º",
+          "texto": "O procedimento previsto no caput deste artigo poderá ser restrito a startups, assim considerados os microempreendedores individuais, as microempresas e as empresas de pequeno porte, de natureza emergente e com grande potencial, que se dediquem à pesquisa, ao desenvolvimento e à implementação de novos produtos ou serviços baseados em soluções tecnológicas inovadoras que possam causar alto impacto, exigida, na seleção definitiva da inovação, validação prévia fundamentada em métricas objetivas, de modo a demonstrar o atendimento das necessidades da Administração."
+        }
+      ]
+    },
+    "art-82": {
+      "numero": "82",
+      "conteudo": "O edital de licitação para registro de preços observará as regras gerais desta Lei e deverá dispor sobre:",
+      "incisos": [
+        "as especificidades da licitação e de seu objeto, inclusive a quantidade máxima de cada item que poderá ser adquirida;",
+        "a quantidade mínima a ser cotada de unidades de bens ou, no caso de serviços, de unidades de medida;",
+        {
+          "texto": "a possibilidade de prever preços diferentes:",
+          "alineas": [
+            "quando o objeto for realizado ou entregue em locais diferentes;",
+            "em razão da forma e do local de acondicionamento;",
+            "quando admitida cotação variável em razão do tamanho do lote;",
+            "por outros motivos justificados no processo;"
+          ]
+        },
+        "a possibilidade de o licitante oferecer ou não proposta em quantitativo inferior ao máximo previsto no edital, obrigando-se nos limites dela;",
+        "o critério de julgamento da licitação, que será o de menor preço ou o de maior desconto sobre tabela de preços praticada no mercado;",
+        "as condições para alteração de preços registrados;",
+        "o registro de mais de um fornecedor ou prestador de serviço, desde que aceitem cotar o objeto em preço igual ao do licitante vencedor, assegurada a preferência de contratação de acordo com a ordem de classificação;",
+        "a vedação à participação do órgão ou entidade em mais de uma ata de registro de preços com o mesmo objeto no prazo de validade daquela de que já tiver participado, salvo na ocorrência de ata que tenha registrado quantitativo inferior ao máximo previsto no edital;",
+        "as hipóteses de cancelamento da ata de registro de preços e suas consequências."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "O critério de julgamento de menor preço por grupo de itens somente poderá ser adotado quando for demonstrada a inviabilidade de se promover a adjudicação por item e for evidenciada a sua vantagem técnica e econômica, e o critério de aceitabilidade de preços unitários máximos deverá ser indicado no edital."
+        },
+        {
+          "numero": "2º",
+          "texto": "Na hipótese de que trata o § 1º deste artigo, observados os parâmetros estabelecidos nos §§ 1º, 2º e 3º do art. 23 desta Lei, a contratação posterior de item específico constante de grupo de itens exigirá prévia pesquisa de mercado e demonstração de sua vantagem para o órgão ou entidade."
+        },
+        {
+          "numero": "3º",
+          "texto": "É permitido registro de preços com indicação limitada a unidades de contratação, sem indicação do total a ser adquirido, apenas nas seguintes situações:",
+          "incisos": [
+            "quando for a primeira licitação para o objeto e o órgão ou entidade não tiver registro de demandas anteriores;",
+            "no caso de alimento perecível;",
+            "no caso em que o serviço estiver integrado ao fornecimento de bens."
+          ]
+        },
+        {
+          "numero": "4º",
+          "texto": "Nas situações referidas no § 3º deste artigo, é obrigatória a indicação do valor máximo da despesa e é vedada a participação de outro órgão ou entidade na ata."
+        },
+        {
+          "numero": "5º",
+          "texto": "O sistema de registro de preços poderá ser usado para a contratação de bens e serviços, inclusive de obras e serviços de engenharia, observadas as seguintes condições:",
+          "incisos": [
+            "realização prévia de ampla pesquisa de mercado;",
+            "seleção de acordo com os procedimentos previstos em regulamento;",
+            "desenvolvimento obrigatório de rotina de controle;",
+            "atualização periódica dos preços registrados;",
+            "definição do período de validade do registro de preços;",
+            "inclusão, em ata de registro de preços, do licitante que aceitar cotar os bens ou serviços em preços iguais aos do licitante vencedor na sequência de classificação da licitação e inclusão do licitante que mantiver sua proposta original."
+          ]
+        },
+        {
+          "numero": "6º",
+          "texto": "O sistema de registro de preços poderá, na forma de regulamento, ser utilizado nas hipóteses de inexigibilidade e de dispensa de licitação para a aquisição de bens ou para a contratação de serviços por mais de um órgão ou entidade."
+        }
+      ]
+    },
+    "art-83": {
+      "numero": "83",
+      "conteudo": "A existência de preços registrados implicará compromisso de fornecimento nas condições estabelecidas, mas não obrigará a Administração a contratar, facultada a realização de licitação específica para a aquisição pretendida, desde que devidamente motivada."
+    },
+    "art-84": {
+      "numero": "84",
+      "conteudo": "O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso.",
+      "paragrafos": [
+        {
+          "numero": "único",
+          "texto": "O contrato decorrente da ata de registro de preços terá sua vigência estabelecida em conformidade com as disposições nela contidas."
+        }
+      ]
+    },
+    "art-85": {
+      "numero": "85",
+      "conteudo": "A Administração poderá contratar a execução de obras e serviços de engenharia pelo sistema de registro de preços, desde que atendidos os seguintes requisitos:",
+      "incisos": [
+        "existência de projeto padronizado, sem complexidade técnica e operacional;",
+        "necessidade permanente ou frequente de obra ou serviço a ser contratado."
+      ]
+    },
+    "art-86": {
+      "numero": "86",
+      "conteudo": "O órgão ou entidade gerenciadora deverá, na fase preparatória do processo licitatório, para fins de registro de preços, realizar procedimento público de intenção de registro de preços para, nos termos de regulamento, possibilitar, pelo prazo mínimo de 8 (oito) dias úteis, a participação de outros órgãos ou entidades na respectiva ata e determinar a estimativa total de quantidades da contratação.",
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "O procedimento previsto no caput deste artigo será dispensável quando o órgão ou entidade gerenciadora for o único contratante."
+        },
+        {
+          "numero": "2º",
+          "texto": "Se não participarem do procedimento previsto no caput deste artigo, os órgãos e entidades poderão aderir à ata de registro de preços na condição de não participantes, observados os seguintes requisitos:",
+          "incisos": [
+            "apresentação de justificativa da vantagem da adesão, inclusive em situações de provável desabastecimento ou descontinuidade de serviço público;",
+            "demonstração de que os valores registrados estão compatíveis com os valores praticados pelo mercado na forma do art. 23 desta Lei;",
+            "prévias consulta e aceitação do órgão ou entidade gerenciadora e do fornecedor."
+          ]
+        },
+        {
+          "numero": "3º",
+          "texto": "A faculdade de aderir à ata de registro de preços na condição de não participante poderá ser exercida:",
+          "incisos": [
+            "por órgãos e entidades da Administração Pública federal, estadual, distrital e municipal, relativamente a ata de registro de preços de órgão ou entidade gerenciadora federal, estadual ou distrital; ou",
+            "por órgãos e entidades da Administração Pública municipal, relativamente a ata de registro de preços de órgão ou entidade gerenciadora municipal, desde que o sistema de registro de preços tenha sido formalizado mediante licitação."
+          ]
+        },
+        {
+          "numero": "4º",
+          "texto": "As aquisições ou as contratações adicionais a que se refere o § 2º deste artigo não poderão exceder, por órgão ou entidade, a 50% (cinquenta por cento) dos quantitativos dos itens do instrumento convocatório registrados na ata de registro de preços para o órgão gerenciador e para os órgãos participantes."
+        },
+        {
+          "numero": "5º",
+          "texto": "O quantitativo decorrente das adesões à ata de registro de preços a que se refere o § 2º deste artigo não poderá exceder, na totalidade, ao dobro do quantitativo de cada item registrado na ata de registro de preços para o órgão gerenciador e órgãos participantes, independentemente do número de órgãos não participantes que aderirem."
+        },
+        {
+          "numero": "6º",
+          "texto": "A adesão à ata de registro de preços de órgão ou entidade gerenciadora do Poder Executivo federal por órgãos e entidades da Administração Pública estadual, distrital e municipal poderá ser exigida para fins de transferências voluntárias, não ficando sujeita ao limite de que trata o § 5º deste artigo se destinada à execução descentralizada de programa ou projeto federal e comprovada a compatibilidade dos preços registrados com os valores praticados no mercado na forma do art. 23 desta Lei."
+        },
+        {
+          "numero": "7º",
+          "texto": "Para aquisição emergencial de medicamentos e material de consumo médico-hospitalar por órgãos e entidades da Administração Pública federal, estadual, distrital e municipal, a adesão à ata de registro de preços gerenciada pelo Ministério da Saúde não estará sujeita ao limite de que trata o § 5º deste artigo."
+        },
+        {
+          "numero": "8º",
+          "texto": "Será vedada aos órgãos e entidades da Administração Pública federal a adesão à ata de registro de preços gerenciada por órgão ou entidade estadual, distrital ou municipal."
+        }
+      ]
+    }
+  }
+}

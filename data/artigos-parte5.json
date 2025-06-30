@@ -1,0 +1,56 @@
+{
+  "artigos": {
+    "art-87": {
+      "numero": "87",
+      "conteudo": "Para os fins desta Lei, os órgãos e entidades da Administração Pública deverão utilizar o sistema de registro cadastral unificado disponível no Portal Nacional de Contratações Públicas (PNCP), para efeito de cadastro unificado de licitantes, na forma disposta em regulamento.",
+      "paragrafos": [
+        {
+          "numero": "1",
+          "texto": "O sistema de registro cadastral unificado será público e deverá ser amplamente divulgado e estar permanentemente aberto aos interessados, e será obrigatória a realização de chamamento público pela internet, no mínimo anualmente, para atualização dos registros existentes e para ingresso de novos interessados."
+        },
+        {
+          "numero": "2",
+          "texto": "É proibida a exigência, pelo órgão ou entidade licitante, de registro cadastral complementar para acesso a edital e anexos."
+        },
+        {
+          "numero": "3",
+          "texto": "A Administração poderá realizar licitação restrita a fornecedores cadastrados, atendidos os critérios, as condições e os limites estabelecidos em regulamento, bem como a ampla publicidade dos procedimentos para o cadastramento."
+        },
+        {
+          "numero": "4",
+          "texto": "Na hipótese a que se refere o § 3º deste artigo, será admitido fornecedor que realize seu cadastro dentro do prazo previsto no edital para apresentação de propostas."
+        }
+      ]
+    },
+    "art-88": {
+      "numero": "88",
+      "conteudo": "Ao requerer, a qualquer tempo, inscrição no cadastro ou a sua atualização, o interessado fornecerá os elementos necessários exigidos para habilitação previstos nesta Lei.",
+      "paragrafos": [
+        {
+          "numero": "1",
+          "texto": "O inscrito, considerada sua área de atuação, será classificado por categorias, subdivididas em grupos, segundo a qualificação técnica e econômico-financeira avaliada, de acordo com regras objetivas divulgadas em sítio eletrônico oficial."
+        },
+        {
+          "numero": "2",
+          "texto": "Ao inscrito será fornecido certificado, renovável sempre que atualizar o registro."
+        },
+        {
+          "numero": "3",
+          "texto": "A atuação do contratado no cumprimento de obrigações assumidas será avaliada pelo contratante, que emitirá documento comprobatório da avaliação realizada, com menção ao seu desempenho na execução contratual, baseado em indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, o que constará do registro cadastral em que a inscrição for realizada."
+        },
+        {
+          "numero": "4",
+          "texto": "A anotação do cumprimento de obrigações pelo contratado, de que trata o § 3º deste artigo, será condicionada à implantação e à regulamentação do cadastro de atesto de cumprimento de obrigações, apto à realização do registro de forma objetiva, em atendimento aos princípios da impessoalidade, da igualdade, da isonomia, da publicidade e da transparência, de modo a possibilitar a implementação de medidas de incentivo aos licitantes que possuírem ótimo desempenho anotado em seu registro cadastral."
+        },
+        {
+          "numero": "5",
+          "texto": "A qualquer tempo poderá ser alterado, suspenso ou cancelado o registro de inscrito que deixar de satisfazer exigências determinadas por esta Lei ou por regulamento."
+        },
+        {
+          "numero": "6",
+          "texto": "O interessado que requerer o cadastro na forma do caput deste artigo poderá participar de processo licitatório até a decisão da Administração, e a celebração do contrato ficará condicionada à emissão do certificado referido no § 2º deste artigo."
+        }
+      ]
+    }
+  }
+}

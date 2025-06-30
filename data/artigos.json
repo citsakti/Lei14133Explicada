@@ -1,0 +1,566 @@
+{
+  "artigos": {
+    "art-1": {
+      "numero": "1º",
+      "conteudo": "Esta Lei estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios, e abrange:",
+      "incisos": [
+        "os órgãos dos Poderes Legislativo e Judiciário da União, dos Estados e do Distrito Federal e os órgãos do Poder Legislativo dos Municípios, quando no desempenho de função administrativa;",
+        "os fundos especiais e as demais entidades controladas direta ou indiretamente pela Administração Pública."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "Não são abrangidas por esta Lei as empresas públicas, as sociedades de economia mista e as suas subsidiárias, regidas pela Lei nº 13.303, de 30 de junho de 2016, ressalvado o disposto no art. 178 desta Lei."
+        },
+        {
+          "numero": "2º",
+          "texto": "As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às peculiaridades locais e aos princípios básicos estabelecidos nesta Lei, na forma de regulamentação específica a ser editada por ministro de Estado."
+        },
+        {
+          "numero": "3º",
+          "texto": "Nas licitações e contratações que envolvam recursos provenientes de empréstimo ou doação oriundos de agência oficial de cooperação estrangeira ou de organismo financeiro de que o Brasil seja parte, podem ser admitidas:",
+          "incisos": [
+            "condições decorrentes de acordos internacionais aprovados pelo Congresso Nacional e ratificados pelo Presidente da República;",
+            {
+              "texto": "condições peculiares à seleção e à contratação constantes de normas e procedimentos das agências ou dos organismos, desde que:",
+              "alineas": [
+                "sejam exigidas para a obtenção do empréstimo ou doação;",
+                "não conflitem com os princípios constitucionais em vigor;",
+                "sejam indicadas no respectivo contrato de empréstimo ou doação e tenham sido objeto de parecer favorável do órgão jurídico do contratante do financiamento previamente à celebração do referido contrato;"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "4º",
+          "texto": "A documentação encaminhada ao Senado Federal para autorização do empréstimo de que trata o § 3º deste artigo deverá fazer referência às condições contratuais que incidam na hipótese do referido parágrafo."
+        },
+        {
+          "numero": "5º",
+          "texto": "As contratações relativas à gestão, direta e indireta, das reservas internacionais do País, inclusive as de serviços conexos ou acessórios a essa atividade, serão disciplinadas em ato normativo próprio do Banco Central do Brasil, assegurada a observância dos princípios estabelecidos no caput do art. 37 da Constituição Federal."
+        }
+      ]
+    },
+    "art-2": {
+      "numero": "2º",
+      "conteudo": "Esta Lei aplica-se a:",
+      "incisos": [
+        "alienação e concessão de direito real de uso de bens;",
+        "compra, inclusive por encomenda;",
+        "locação;",
+        "concessão e permissão de uso de bens públicos;",
+        "prestação de serviços, inclusive os técnico-profissionais especializados;",
+        "obras e serviços de arquitetura e engenharia;",
+        "contratações de tecnologia da informação e de comunicação."
+      ]
+    },
+    "art-3": {
+      "numero": "3º",
+      "conteudo": "Não se subordinam ao regime desta Lei:",
+      "incisos": [
+        "contratos que tenham por objeto operação de crédito, interno ou externo, e gestão de dívida pública, incluídas as contratações de agente financeiro e a concessão de garantia relacionadas a esses contratos;",
+        "contratações sujeitas a normas previstas em legislação própria."
+      ]
+    },
+    "art-4": {
+      "numero": "4º",
+      "conteudo": "Aplicam-se às licitações e contratos disciplinados por esta Lei as disposições constantes dos arts. 42 a 49 da Lei Complementar nº 123, de 14 de dezembro de 2006.",
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "As disposições a que se refere o caput deste artigo não são aplicadas:",
+          "incisos": [
+            "no caso de licitação para aquisição de bens ou contratação de serviços em geral, ao item cujo valor estimado for superior à receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte;",
+            "no caso de contratação de obras e serviços de engenharia, às licitações cujo valor estimado for superior à receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte."
+          ]
+        },
+        {
+          "numero": "2º",
+          "texto": "A obtenção de benefícios a que se refere o caput deste artigo fica limitada às microempresas e às empresas de pequeno porte que, no ano-calendário de realização da licitação, ainda não tenham celebrado contratos com a Administração Pública cujos valores somados extrapolem a receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte, devendo o órgão ou entidade exigir do licitante declaração de observância desse limite na licitação."
+        },
+        {
+          "numero": "3º",
+          "texto": "Nas contratações com prazo de vigência superior a 1 (um) ano, será considerado o valor anual do contrato na aplicação dos limites previstos nos §§ 1º e 2º deste artigo."
+        }
+      ]
+    },
+    "art-5": {
+      "numero": "5º",
+      "conteudo": "Na aplicação desta Lei, serão observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público, da probidade administrativa, da igualdade, do planejamento, da transparência, da eficácia, da segregação de funções, da motivação, da vinculação ao edital, do julgamento objetivo, da segurança jurídica, da razoabilidade, da competitividade, da proporcionalidade, da celeridade, da economicidade e do desenvolvimento nacional sustentável, assim como as disposições do Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro)."
+    },
+    "art-6": {
+      "numero": "6º",
+      "conteudo": "Para os fins desta Lei, consideram-se:",
+      "incisos": [
+        {
+          "termo": "órgão",
+          "definicao": "unidade de atuação integrante da estrutura da Administração Pública"
+        },
+        {
+          "termo": "entidade",
+          "definicao": "unidade de atuação dotada de personalidade jurídica"
+        },
+        {
+          "termo": "Administração Pública",
+          "definicao": "administração direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios, inclusive as entidades com personalidade jurídica de direito privado sob controle do poder público e as fundações por ele instituídas ou mantidas"
+        },
+        {
+          "termo": "Administração",
+          "definicao": "órgão ou entidade por meio do qual a Administração Pública atua"
+        },
+        {
+          "termo": "agente público",
+          "definicao": "indivíduo que, em virtude de eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, exerce mandato, cargo, emprego ou função em pessoa jurídica integrante da Administração Pública"
+        },
+        {
+          "termo": "autoridade",
+          "definicao": "agente público dotado de poder de decisão"
+        },
+        {
+          "termo": "contratante",
+          "definicao": "pessoa jurídica integrante da Administração Pública responsável pela contratação"
+        },
+        {
+          "termo": "contratado",
+          "definicao": "pessoa física ou jurídica, ou consórcio de pessoas jurídicas, signatária de contrato com a Administração"
+        },
+        {
+          "termo": "licitante",
+          "definicao": "pessoa física ou jurídica, ou consórcio de pessoas jurídicas, que participa ou manifesta a intenção de participar de processo licitatório"
+        },
+        {
+          "termo": "compra",
+          "definicao": "aquisição remunerada de bens para fornecimento de uma só vez ou parceladamente, considerada imediata aquela com prazo de entrega de até 30 (trinta) dias da ordem de fornecimento"
+        }
+      ]
+    },
+    "art-7": {
+      "numero": "7º",
+      "conteudo": "Caberá à autoridade máxima do órgão ou da entidade, ou a quem as normas de organização administrativa indicarem, promover gestão por competências e designar agentes públicos para o desempenho das funções essenciais à execução desta Lei que preencham os seguintes requisitos:",
+      "incisos": [
+        "sejam, preferencialmente, servidor efetivo ou empregado público dos quadros permanentes da Administração Pública;",
+        "tenham atribuições relacionadas a licitações e contratos ou possuam formação compatível ou qualificação atestada por certificação profissional emitida por escola de governo criada e mantida pelo poder público;",
+        "não sejam cônjuge ou companheiro de licitantes ou contratados habituais da Administração nem tenham com eles vínculo de parentesco, colateral ou por afinidade, até o terceiro grau, ou de natureza técnica, comercial, econômica, financeira, trabalhista e civil."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "A autoridade referida no caput deste artigo deverá observar o princípio da segregação de funções, vedada a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na respectiva contratação."
+        },
+        {
+          "numero": "2º",
+          "texto": "O disposto no caput e no § 1º deste artigo, inclusive os requisitos estabelecidos, também se aplica aos órgãos de assessoramento jurídico e de controle interno da Administração."
+        }
+      ]
+    },
+    "art-8": {
+      "numero": "8º",
+      "conteudo": "A licitação será conduzida por agente de contratação, pessoa designada pela autoridade competente, entre servidores efetivos ou empregados públicos dos quadros permanentes da Administração Pública, para tomar decisões, acompanhar o trâmite da licitação, dar impulso ao procedimento licitatório e executar quaisquer outras atividades necessárias ao bom andamento do certame até a homologação.",
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "O agente de contratação será auxiliado por equipe de apoio e responderá individualmente pelos atos que praticar, salvo quando induzido a erro pela atuação da equipe."
+        },
+        {
+          "numero": "2º",
+          "texto": "Em licitação que envolva bens ou serviços especiais, desde que observados os requisitos estabelecidos no art. 7º desta Lei, o agente de contratação poderá ser substituído por comissão de contratação formada por, no mínimo, 3 (três) membros, que responderão solidariamente por todos os atos praticados pela comissão, ressalvado o membro que expressar posição individual divergente fundamentada e registrada em ata lavrada na reunião em que houver sido tomada a decisão."
+        },
+        {
+          "numero": "3º",
+          "texto": "As regras relativas à atuação do agente de contratação e da equipe de apoio, ao funcionamento da comissão de contratação e à atuação de fiscais e gestores de contratos de que trata esta Lei serão estabelecidas em regulamento, e deverá ser prevista a possibilidade de eles contarem com o apoio dos órgãos de assessoramento jurídico e de controle interno para o desempenho das funções essenciais à execução do disposto nesta Lei."
+        },
+        {
+          "numero": "4º",
+          "texto": "Em licitação que envolva bens ou serviços especiais cujo objeto não seja rotineiramente contratado pela Administração, poderá ser contratado, por prazo determinado, serviço de empresa ou de profissional especializado para assessorar os agentes públicos responsáveis pela condução da licitação."
+        },
+        {
+          "numero": "5º",
+          "texto": "Em licitação na modalidade pregão, o agente responsável pela condução do certame será designado pregoeiro."
+        }
+      ]
+    },
+    "art-9": {
+      "numero": "9º",
+      "conteudo": "É vedado ao agente público designado para atuar na área de licitações e contratos, ressalvados os casos previstos em lei:",
+      "incisos": [
+        {
+          "texto": "admitir, prever, incluir ou tolerar, nos atos que praticar, situações que:",
+          "alineas": [
+            "comprometam, restrinjam ou frustrem o caráter competitivo do processo licitatório, inclusive nos casos de participação de sociedades cooperativas;",
+            "estabeleçam preferências ou distinções em razão da naturalidade, da sede ou do domicílio dos licitantes;",
+            "sejam impertinentes ou irrelevantes para o objeto específico do contrato;"
+          ]
+        },
+        "estabelecer tratamento diferenciado de natureza comercial, legal, trabalhista, previdenciária ou qualquer outra entre empresas brasileiras e estrangeiras, inclusive no que se refere a moeda, modalidade e local de pagamento, mesmo quando envolvido financiamento de agência internacional;",
+        "opor resistência injustificada ao andamento dos processos e, indevidamente, retardar ou deixar de praticar ato de ofício, ou praticá-lo contra disposição expressa em lei."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato agente público de órgão ou entidade licitante ou contratante, devendo ser observadas as situações que possam configurar conflito de interesses no exercício ou após o exercício do cargo ou emprego, nos termos da legislação que disciplina a matéria."
+        },
+        {
+          "numero": "2º",
+          "texto": "As vedações de que trata este artigo estendem-se a terceiro que auxilie a condução da contratação na qualidade de integrante de equipe de apoio, profissional especializado ou funcionário ou representante de empresa que preste assessoria técnica."
+        }
+      ]
+    },
+    "art-10": {
+      "numero": "10",
+      "conteudo": "Se as autoridades competentes e os servidores públicos que tiverem participado dos procedimentos relacionados às licitações e aos contratos de que trata esta Lei precisarem defender-se nas esferas administrativa, controladora ou judicial em razão de ato praticado com estrita observância de orientação constante em parecer jurídico elaborado na forma do § 1º do art. 53 desta Lei, a advocacia pública promoverá, a critério do agente público, sua representação judicial ou extrajudicial.",
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "Não se aplica o disposto no caput deste artigo quando:",
+          "incisos": [
+            "(VETADO);",
+            "provas da prática de atos ilícitos dolosos constarem nos autos do processo administrativo ou judicial."
+          ]
+        },
+        {
+          "numero": "2º",
+          "texto": "Aplica-se o disposto no caput deste artigo inclusive na hipótese de o agente público não mais ocupar o cargo, emprego ou função em que foi praticado o ato questionado."
+        }
+      ]
+    },
+    "art-11": {
+      "numero": "11",
+      "conteudo": "O processo licitatório tem por objetivos:",
+      "incisos": [
+        "assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto;",
+        "assegurar tratamento isonômico entre os licitantes, bem como a justa competição;",
+        "evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos;",
+        "incentivar a inovação e o desenvolvimento nacional sustentável."
+      ],
+      "paragrafos": [
+        {
+          "numero": "único",
+          "texto": "A alta administração do órgão ou entidade é responsável pela governança das contratações e deve implementar processos e estruturas, inclusive de gestão de riscos e controles internos, para avaliar, direcionar e monitorar os processos licitatórios e os respectivos contratos, com o intuito de alcançar os objetivos estabelecidos no caput deste artigo, promover um ambiente íntegro e confiável, assegurar o alinhamento das contratações ao planejamento estratégico e às leis orçamentárias e promover eficiência, efetividade e eficácia em suas contratações."
+        }
+      ]
+    },
+    "art-12": {
+      "numero": "12",
+      "conteudo": "No processo licitatório, observar-se-á o seguinte:",
+      "incisos": [
+        "os documentos serão produzidos por escrito, com data e local de sua realização e assinatura dos responsáveis;",
+        "os valores, os preços e os custos utilizados terão como expressão monetária a moeda corrente nacional, ressalvado o disposto no art. 52 desta Lei;",
+        "o desatendimento de exigências meramente formais que não comprometam a aferição da qualificação do licitante ou a compreensão do conteúdo de sua proposta não importará seu afastamento da licitação ou a invalidação do processo;",
+        "a prova de autenticidade de cópia de documento público ou particular poderá ser feita perante agente da Administração, mediante apresentação de original ou de declaração de autenticidade por advogado, sob sua responsabilidade pessoal;",
+        "o reconhecimento de firma somente será exigido quando houver dúvida de autenticidade, salvo imposição legal;",
+        "os atos serão preferencialmente digitais, de forma a permitir que sejam produzidos, comunicados, armazenados e validados por meio eletrônico;",
+        "a partir de documentos de formalização de demandas, os órgãos responsáveis pelo planejamento de cada ente federativo poderão, na forma de regulamento, elaborar plano de contratações anual, com o objetivo de racionalizar as contratações dos órgãos e entidades sob sua competência, garantir o alinhamento com o seu planejamento estratégico e subsidiar a elaboração das respectivas leis orçamentárias."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "O plano de contratações anual de que trata o inciso VII do caput deste artigo deverá ser divulgado e mantido à disposição do público em sítio eletrônico oficial e será observado pelo ente federativo na realização de licitações e na execução dos contratos."
+        },
+        {
+          "numero": "2º",
+          "texto": "É permitida a identificação e assinatura digital por pessoa física ou jurídica em meio eletrônico, mediante certificado digital emitido em âmbito da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil)."
+        }
+      ]
+    },
+    "art-13": {
+      "numero": "13",
+      "conteudo": "Os atos praticados no processo licitatório são públicos, ressalvadas as hipóteses de informações cujo sigilo seja imprescindível à segurança da sociedade e do Estado, na forma da lei.",
+      "paragrafos": [
+        {
+          "numero": "único",
+          "texto": "A publicidade será diferida:"
+        }
+      ]
+    },
+    "art-14": {
+      "numero": "14",
+      "conteudo": "Não poderão disputar licitação ou participar da execução de contrato, direta ou indiretamente:",
+      "incisos": [
+        "autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica, quando a licitação versar sobre obra, serviços ou fornecimento de bens a ele relacionados;",
+        "empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico ou do projeto executivo, ou empresa da qual o autor do projeto seja dirigente, gerente, controlador, acionista ou detentor de mais de 5% (cinco por cento) do capital com direito a voto, responsável técnico ou subcontratado, quando a licitação versar sobre obra, serviços ou fornecimento de bens a ela necessários;",
+        "pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar da licitação em decorrência de sanção que lhe foi imposta;",
+        "aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, devendo essa proibição constar expressamente do edital de licitação;",
+        "empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de dezembro de 1976, concorrendo entre si;",
+        "pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por submissão de trabalhadores a condições análogas às de escravo ou por contratação de adolescentes nos casos vedados pela legislação trabalhista."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "O impedimento de que trata o inciso III do caput deste artigo será também aplicado ao licitante que atue em substituição a outra pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela aplicada, inclusive a sua controladora, controlada ou coligada, desde que devidamente comprovado o ilícito ou a utilização fraudulenta da personalidade jurídica do licitante."
+        },
+        {
+          "numero": "2º",
+          "texto": "A critério da Administração e exclusivamente a seu serviço, o autor dos projetos e a empresa a que se referem os incisos I e II do caput deste artigo poderão participar no apoio das atividades de planejamento da contratação, de execução da licitação ou de gestão do contrato, desde que sob supervisão exclusiva de agentes públicos do órgão ou entidade."
+        },
+        {
+          "numero": "3º",
+          "texto": "Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo econômico."
+        },
+        {
+          "numero": "4º",
+          "texto": "O disposto neste artigo não impede a licitação ou a contratação de obra ou serviço que inclua como encargo do contratado a elaboração do projeto básico e do projeto executivo, nas contratações integradas, e do projeto executivo, nos demais regimes de execução."
+        },
+        {
+          "numero": "5º",
+          "texto": "Em licitações e contratações realizadas no âmbito de projetos e programas parcialmente financiados por agência oficial de cooperação estrangeira ou por organismo financeiro internacional com recursos do financiamento ou da contrapartida nacional, não poderá participar pessoa física ou jurídica que integre o rol de pessoas sancionadas por essas entidades ou que seja declarada inidônea nos termos desta Lei."
+        }
+      ]
+    },
+    "art-15": {
+      "numero": "15",
+      "conteudo": "Salvo vedação devidamente justificada no processo licitatório, pessoa jurídica poderá participar de licitação em consórcio, observadas as seguintes normas:",
+      "incisos": [
+        "comprovação de compromisso público ou particular de constituição de consórcio, subscrito pelos consorciados;",
+        "indicação da empresa líder do consórcio, que será responsável por sua representação perante a Administração;",
+        "admissão, para efeito de habilitação técnica, do somatório dos quantitativos de cada consorciado e, para efeito de habilitação econômico-financeira, do somatório dos valores de cada consorciado;",
+        "impedimento de a empresa consorciada participar, na mesma licitação, de mais de um consórcio ou de forma isolada;",
+        "responsabilidade solidária dos integrantes pelos atos praticados em consórcio, tanto na fase de licitação quanto na de execução do contrato."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "O edital deverá estabelecer para o consórcio acréscimo de 10% (dez por cento) a 30% (trinta por cento) sobre o valor exigido de licitante individual para a habilitação econômico-financeira, salvo justificação."
+        },
+        {
+          "numero": "2º",
+          "texto": "O acréscimo previsto no § 1º deste artigo não se aplica aos consórcios compostos, em sua totalidade, de microempresas e pequenas empresas, assim definidas em lei."
+        },
+        {
+          "numero": "3º",
+          "texto": "O licitante vencedor é obrigado a promover, antes da celebração do contrato, a constituição e o registro do consórcio, nos termos do compromisso referido no inciso I do caput deste artigo."
+        },
+        {
+          "numero": "4º",
+          "texto": "Desde que haja justificativa técnica aprovada pela autoridade competente, o edital de licitação poderá estabelecer limite máximo para o número de empresas consorciadas."
+        },
+        {
+          "numero": "5º",
+          "texto": "A substituição de consorciado deverá ser expressamente autorizada pelo órgão ou entidade contratante e condicionada à comprovação de que a nova empresa do consórcio possui, no mínimo, os mesmos quantitativos para efeito de habilitação técnica e os mesmos valores para efeito de qualificação econômico-financeira apresentados pela empresa substituída para fins de habilitação do consórcio no processo licitatório que originou o contrato."
+        }
+      ]
+    },
+    "art-16": {
+      "numero": "16",
+      "conteudo": "Os profissionais organizados sob a forma de cooperativa poderão participar de licitação quando:",
+      "incisos": [
+        "a constituição e o funcionamento da cooperativa observarem as regras estabelecidas na legislação aplicável, em especial a Lei nº 5.764, de 16 de dezembro de 1971, a Lei nº 12.690, de 19 de julho de 2012, e a Lei Complementar nº 130, de 17 de abril de 2009;",
+        "a cooperativa apresentar demonstrativo de atuação em regime cooperado, com repartição de receitas e despesas entre os cooperados;",
+        "qualquer cooperado, com igual qualificação, for capaz de executar o objeto contratado, vedado à Administração indicar nominalmente pessoas;",
+        "o objeto da licitação referir-se, em se tratando de cooperativas enquadradas na Lei nº 12.690, de 19 de julho de 2012, a serviços especializados constantes do objeto social da cooperativa, a serem executados de forma complementar à sua atuação."
+      ]
+    },
+    "art-17": {
+      "numero": "17",
+      "conteudo": "O processo de licitação observará as seguintes fases, em sequência:",
+      "incisos": [
+        "preparatória;",
+        "de divulgação do edital de licitação;",
+        "de apresentação de propostas e lances, quando for o caso;",
+        "de julgamento;",
+        "de habilitação;",
+        "recursal;",
+        "de homologação."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "A fase referida no inciso V do caput deste artigo poderá, mediante ato motivado com explicitação dos benefícios decorrentes, anteceder as fases referidas nos incisos III e IV do caput deste artigo, desde que expressamente previsto no edital de licitação."
+        },
+        {
+          "numero": "2º",
+          "texto": "As licitações serão realizadas preferencialmente sob a forma eletrônica, admitida a utilização da forma presencial, desde que motivada, devendo a sessão pública ser registrada em ata e gravada em áudio e vídeo."
+        },
+        {
+          "numero": "3º",
+          "texto": "Desde que previsto no edital, na fase a que se refere o inciso IV do caput deste artigo, o órgão ou entidade licitante poderá, em relação ao licitante provisoriamente vencedor, realizar análise e avaliação da conformidade da proposta, mediante homologação de amostras, exame de conformidade e prova de conceito, entre outros testes de interesse da Administração, de modo a comprovar sua aderência às especificações definidas no termo de referência ou no projeto básico."
+        },
+        {
+          "numero": "4º",
+          "texto": "Nos procedimentos realizados por meio eletrônico, a Administração poderá determinar, como condição de validade e eficácia, que os licitantes pratiquem seus atos em formato eletrônico."
+        },
+        {
+          "numero": "5º",
+          "texto": "Na hipótese excepcional de licitação sob a forma presencial a que refere o § 2º deste artigo, a sessão pública de apresentação de propostas deverá ser gravada em áudio e vídeo, e a gravação será juntada aos autos do processo licitatório depois de seu encerramento."
+        },
+        {
+          "numero": "6º",
+          "texto": "A Administração poderá exigir certificação por organização independente acreditada pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro) como condição para aceitação de:",
+          "incisos": [
+            "estudos, anteprojetos, projetos básicos e projetos executivos;",
+            "conclusão de fases ou de objetos de contratos;",
+            "material e corpo técnico apresentados por empresa para fins de habilitação."
+          ]
+        }
+      ]
+    },
+    "art-18": {
+      "numero": "18",
+      "conteudo": "A fase preparatória do processo licitatório é caracterizada pelo planejamento e deve compatibilizar-se com o plano de contratações anual de que trata o inciso VII do caput do art. 12 desta Lei, sempre que elaborado, e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, compreendidos:",
+      "incisos": [
+        "a descrição da necessidade da contratação fundamentada em estudo técnico preliminar que caracterize o interesse público envolvido;",
+        "a definição do objeto para o atendimento da necessidade, por meio de termo de referência, anteprojeto, projeto básico ou projeto executivo, conforme o caso;",
+        "a definição das condições de execução e pagamento, das garantias exigidas e ofertadas e das condições de recebimento;",
+        "o orçamento estimado, com as composições dos preços utilizados para sua formação;",
+        "a elaboração do edital de licitação;",
+        "a elaboração de minuta de contrato, quando necessária, que constará obrigatoriamente como anexo do edital de licitação;",
+        "o regime de fornecimento de bens, de prestação de serviços ou de execução de obras e serviços de engenharia, observados os potenciais de economia de escala;",
+        "a modalidade de licitação, o critério de julgamento, o modo de disputa e a adequação e eficiência da forma de combinação desses parâmetros, para os fins de seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, considerado todo o ciclo de vida do objeto;",
+        "a motivação circunstanciada das condições do edital, tais como justificativa de exigências de qualificação técnica, mediante indicação das parcelas de maior relevância técnica ou valor significativo do objeto, e de qualificação econômico-financeira, justificativa dos critérios de pontuação e julgamento das propostas técnicas, nas licitações com julgamento por melhor técnica ou técnica e preço, e justificativa das regras pertinentes à participação de empresas em consórcio;",
+        "a análise dos riscos que possam comprometer o sucesso da licitação e a boa execução contratual;",
+        "a motivação sobre o momento da divulgação do orçamento da licitação, observado o art. 24 desta Lei."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "O estudo técnico preliminar a que se refere o inciso I do caput deste artigo deverá evidenciar o problema a ser resolvido e a sua melhor solução, de modo a permitir a avaliação da viabilidade técnica e econômica da contratação, e conterá os seguintes elementos:",
+          "incisos": [
+            "descrição da necessidade da contratação, considerado o problema a ser resolvido sob a perspectiva do interesse público;",
+            "demonstração da previsão da contratação no plano de contratações anual, sempre que elaborado, de modo a indicar o seu alinhamento com o planejamento da Administração;",
+            "requisitos da contratação;",
+            "estimativas das quantidades para a contratação, acompanhadas das memórias de cálculo e dos documentos que lhes dão suporte, que considerem interdependências com outras contratações, de modo a possibilitar economia de escala;",
+            "levantamento de mercado, que consiste na análise das alternativas possíveis, e justificativa técnica e econômica da escolha do tipo de solução a contratar;",
+            "estimativa do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, que poderão constar de anexo classificado, se a Administração optar por preservar o seu sigilo até a conclusão da licitação;",
+            "descrição da solução como um todo, inclusive das exigências relacionadas à manutenção e à assistência técnica, quando for o caso;",
+            "justificativas para o parcelamento ou não da contratação;",
+            "demonstrativo dos resultados pretendidos em termos de economicidade e de melhor aproveitamento dos recursos humanos, materiais e financeiros disponíveis;",
+            "providências a serem adotadas pela Administração previamente à celebração do contrato, inclusive quanto à capacitação de servidores ou de empregados para fiscalização e gestão contratual;",
+            "contratações correlatas e/ou interdependentes;",
+            "descrição de possíveis impactos ambientais e respectivas medidas mitigadoras, incluídos requisitos de baixo consumo de energia e de outros recursos, bem como logística reversa para desfazimento e reciclagem de bens e refugos, quando aplicável;",
+            "posicionamento conclusivo sobre a adequação da contratação para o atendimento da necessidade a que se destina."
+          ]
+        },
+        {
+          "numero": "2º",
+          "texto": "O estudo técnico preliminar deverá conter ao menos os elementos previstos nos incisos I, IV, VI, VIII e XIII do § 1º deste artigo e, quando não contemplar os demais elementos previstos no referido parágrafo, apresentar as devidas justificativas."
+        },
+        {
+          "numero": "3º",
+          "texto": "Em se tratando de estudo técnico preliminar para contratação de obras e serviços comuns de engenharia, se demonstrada a inexistência de prejuízo para a aferição dos padrões de desempenho e qualidade almejados, a especificação do objeto poderá ser realizada apenas em termo de referência ou em projeto básico, dispensada a elaboração de projetos."
+        }
+      ]
+    },
+    "art-19": {
+      "numero": "19",
+      "conteudo": "Os órgãos da Administração com competências regulamentares relativas às atividades de administração de materiais, de obras e serviços e de licitações e contratos deverão:",
+      "incisos": [
+        "instituir instrumentos que permitam, preferencialmente, a centralização dos procedimentos de aquisição e contratação de bens e serviços;",
+        "criar catálogo eletrônico de padronização de compras, serviços e obras, admitida a adoção do catálogo do Poder Executivo federal por todos os entes federativos;",
+        "instituir sistema informatizado de acompanhamento de obras, inclusive com recursos de imagem e vídeo;",
+        "instituir, com auxílio dos órgãos de assessoramento jurídico e de controle interno, modelos de minutas de editais, de termos de referência, de contratos padronizados e de outros documentos, admitida a adoção das minutas do Poder Executivo federal por todos os entes federativos;",
+        "promover a adoção gradativa de tecnologias e processos integrados que permitam a criação, a utilização e a atualização de modelos digitais de obras e serviços de engenharia."
+      ],
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "O catálogo referido no inciso II do caput deste artigo poderá ser utilizado em licitações cujo critério de julgamento seja o de menor preço ou o de maior desconto e conterá toda a documentação e os procedimentos próprios da fase interna de licitações, assim como as especificações dos respectivos objetos, conforme disposto em regulamento."
+        },
+        {
+          "numero": "2º",
+          "texto": "A não utilização do catálogo eletrônico de padronização de que trata o inciso II do caput ou dos modelos de minutas de que trata o inciso IV do caput deste artigo deverá ser justificada por escrito e anexada ao respectivo processo licitatório."
+        },
+        {
+          "numero": "3º",
+          "texto": "Nas licitações de obras e serviços de engenharia e arquitetura, sempre que adequada ao objeto da licitação, será preferencialmente adotada a Modelagem da Informação da Construção (Building Information Modelling - BIM) ou tecnologias e processos integrados similares ou mais avançados que venham a substituí-la."
+        }
+      ]
+    },
+    "art-20": {
+      "numero": "20",
+      "conteudo": "Os itens de consumo adquiridos para suprir as demandas das estruturas da Administração Pública deverão ser de qualidade comum, não superior à necessária para cumprir as finalidades às quais se destinam, vedada a aquisição de artigos de luxo.",
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "Os Poderes Executivo, Legislativo e Judiciário definirão em regulamento os limites para o enquadramento dos bens de consumo nas categorias comum e luxo."
+        },
+        {
+          "numero": "2º",
+          "texto": "A partir de 180 (cento e oitenta) dias contados da promulgação desta Lei, novas compras de bens de consumo só poderão ser efetivadas com a edição, pela autoridade competente, do regulamento a que se refere o § 1º deste artigo."
+        },
+        {
+          "numero": "3º",
+          "texto": "(VETADO)."
+        }
+      ]
+    },
+    "art-21": {
+      "numero": "21",
+      "conteudo": "A Administração poderá convocar, com antecedência mínima de 8 (oito) dias úteis, audiência pública, presencial ou a distância, na forma eletrônica, sobre licitação que pretenda realizar, com disponibilização prévia de informações pertinentes, inclusive de estudo técnico preliminar e elementos do edital de licitação, e com possibilidade de manifestação de todos os interessados.",
+      "paragrafos": [
+        {
+          "numero": "único",
+          "texto": "A Administração também poderá submeter a licitação a prévia consulta pública, mediante a disponibilização de seus elementos a todos os interessados, que poderão formular sugestões no prazo fixado."
+        }
+      ]
+    },
+    "art-22": {
+      "numero": "22",
+      "conteudo": "O edital poderá contemplar matriz de alocação de riscos entre o contratante e o contratado, hipótese em que o cálculo do valor estimado da contratação poderá considerar taxa de risco compatível com o objeto da licitação e com os riscos atribuídos ao contratado, de acordo com metodologia predefinida pelo ente federativo.",
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "A matriz de que trata o caput deste artigo deverá promover a alocação eficiente dos riscos de cada contrato e estabelecer a responsabilidade que caiba a cada parte contratante, bem como os mecanismos que afastem a ocorrência do sinistro e mitiguem os seus efeitos, caso este ocorra durante a execução contratual."
+        },
+        {
+          "numero": "2º",
+          "texto": "O contrato deverá refletir a alocação realizada pela matriz de riscos, especialmente quanto:",
+          "incisos": [
+            "às hipóteses de alteração para o restabelecimento da equação econômico-financeira do contrato nos casos em que o sinistro seja considerado na matriz de riscos como causa de desequilíbrio não suportada pela parte que pretenda o restabelecimento;",
+            "à possibilidade de resolução quando o sinistro majorar excessivamente ou impedir a continuidade da execução contratual;",
+            "à contratação de seguros obrigatórios previamente definidos no contrato, integrado o custo de contratação ao preço ofertado."
+          ]
+        },
+        {
+          "numero": "3º",
+          "texto": "Quando a contratação se referir a obras e serviços de grande vulto ou forem adotados os regimes de contratação integrada e semi-integrada, o edital obrigatoriamente contemplará matriz de alocação de riscos entre o contratante e o contratado."
+        },
+        {
+          "numero": "4º",
+          "texto": "Nas contratações integradas ou semi-integradas, os riscos decorrentes de fatos supervenientes à contratação associados à escolha da solução de projeto básico pelo contratado deverão ser alocados como de sua responsabilidade na matriz de riscos."
+        }
+      ]
+    },
+    "art-23": {
+      "numero": "23",
+      "conteudo": "O valor previamente estimado da contratação deverá ser compatível com os valores praticados pelo mercado, considerados os preços constantes de bancos de dados públicos e as quantidades a serem contratadas, observadas a potencial economia de escala e as peculiaridades do local de execução do objeto.",
+      "paragrafos": [
+        {
+          "numero": "1º",
+          "texto": "No processo licitatório para aquisição de bens e contratação de serviços em geral, conforme regulamento, o valor estimado será definido com base no melhor preço aferido por meio da utilização dos seguintes parâmetros, adotados de forma combinada ou não:",
+          "incisos": [
+            "composição de custos unitários menores ou iguais à mediana do item correspondente no painel para consulta de preços ou no banco de preços em saúde disponíveis no Portal Nacional de Contratações Públicas (PNCP);",
+            "contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, inclusive mediante sistema de registro de preços, observado o índice de atualização de preços correspondente;",
+            "utilização de dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelo Poder Executivo federal e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e hora de acesso;",
+            "pesquisa direta com no mínimo 3 (três) fornecedores, mediante solicitação formal de cotação, desde que seja apresentada justificativa da escolha desses fornecedores e que não tenham sido obtidos os orçamentos com mais de 6 (seis) meses de antecedência da data de divulgação do edital;",
+            "pesquisa na base nacional de notas fiscais eletrônicas, na forma de regulamento."
+          ]
+        },
+        {
+          "numero": "2º",
+          "texto": "No processo licitatório para contratação de obras e serviços de engenharia, conforme regulamento, o valor estimado, acrescido do percentual de Benefícios e Despesas Indiretas (BDI) de referência e dos Encargos Sociais (ES) cabíveis, será definido por meio da utilização de parâmetros na seguinte ordem:",
+          "incisos": [
+            "composição de custos unitários menores ou iguais à mediana do item correspondente do Sistema de Custos Referenciais de Obras (Sicro), para serviços e obras de infraestrutura de transportes, ou do Sistema Nacional de Pesquisa de Custos e Índices de Construção Civil (Sinapi), para as demais obras e serviços de engenharia;",
+            "utilização de dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelo Poder Executivo federal e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e a hora de acesso;",
+            "contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, observado o índice de atualização de preços correspondente;",
+            "pesquisa na base nacional de notas fiscais eletrônicas, na forma de regulamento."
+          ]
+        },
+        {
+          "numero": "3º",
+          "texto": "Nas contratações realizadas por Municípios, Estados e Distrito Federal, desde que não envolvam recursos da União, o valor previamente estimado da contratação, a que se refere o caput deste artigo, poderá ser definido por meio da utilização de outros sistemas de custos adotados pelo respectivo ente federativo."
+        },
+        {
+          "numero": "4º",
+          "texto": "Nas contratações diretas por inexigibilidade ou por dispensa, quando não for possível estimar o valor do objeto na forma estabelecida nos §§ 1º, 2º e 3º deste artigo, o contratado deverá comprovar previamente que os preços estão em conformidade com os praticados em contratações semelhantes de objetos de mesma natureza, por meio da apresentação de notas fiscais emitidas para outros contratantes no período de até 1 (um) ano anterior à data da contratação pela Administração, ou por outro meio idôneo."
+        },
+        {
+          "numero": "5º",
+          "texto": "No processo licitatório para contratação de obras e serviços de engenharia sob os regimes de contratação integrada ou semi-integrada, o valor estimado da contratação será calculado nos termos do § 2º deste artigo, acrescido ou não de parcela referente à remuneração do risco, e, sempre que necessário e o anteprojeto o permitir, a estimativa de preço será baseada em orçamento sintético, balizado em sistema de custo definido no inciso I do § 2º deste artigo, devendo a utilização de metodologia expedita ou paramétrica e de avaliação aproximada baseada em outras contratações similares ser reservada às frações do empreendimento não suficientemente detalhadas no anteprojeto."
+        },
+        {
+          "numero": "6º",
+          "texto": "Na hipótese do § 5º deste artigo, será exigido dos licitantes ou contratados, no orçamento que compuser suas respectivas propostas, no mínimo, o mesmo nível de detalhamento do orçamento sintético referido no mencionado parágrafo."
+        }
+      ]
+    }
+  }
+}
